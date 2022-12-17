@@ -51,7 +51,7 @@
 }
 
 .return-argprog-btn {
-    background-color: var(--green_off);
+    background-color: var(--white_off);
     color: var(--black-on);
     padding: 0.5em 2.5em;
     text-decoration: none;
@@ -62,7 +62,7 @@
 }
 
 .return-argprog-btn:hover {
-    background-color: var(--green_on);
+    background-color: var(--white_on);
     transition: 0.5s;
     cursor: pointer;
 }
