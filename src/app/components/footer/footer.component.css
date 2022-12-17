@@ -26,8 +26,8 @@ color: var(--white-off);
 
 
 .link-footer:hover {
-  letter-spacing: 0.1em;
-  transition: 1s;
+  letter-spacing: 0.05em;
+  transition: 0.5s;
   color: var(--white-on);
 }
 
