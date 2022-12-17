@@ -36,71 +36,56 @@
 }
 
 #bio-container {
-    display: grid;
-    grid-template-columns: 2fr 3fr 3fr;
-    width: 100vw;
-    padding-top: 1em;
+  display: grid;
+  grid-template-columns: 2fr 3fr 3fr;
+  width: 100vw;
+  padding-top: 1em;
 }
 
 #photo-container {
-    margin-top: 1em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 figcaption {
     background-color: transparent;
 }
 
-.fig-name {
+.fig-name, .fig-title {
   padding: 0.05em 0;
   background-color: transparent;
-  font-size: 3em;
   text-align: center;
-  color: var(--white-off);
+}
+
+.fig-name {
+  font-size: 3em;
+  color: var(--white_off);
 }
 
 .fig-title {
-    padding: 0.05em 0;
-    background-color: transparent;
-    font-size: 1.7em;
-    text-align: center;
-    color: var(--white-off);
-}
-
-.fig-name:hover, .fig-title:hover {
-    color: var(--white-on);
-    transition: 0.3s;
+  font-size: 1.7em;
+  color: var(--white-on);
 }
 
 .photo-item {
-    background-repeat: no-repeat;
-    background-size: cover;
-    object-fit: cover;
-    object-position: center;
-    width: 18em;
-    height: 18em;
-    border-radius: 100%;
-    opacity: 0.5;
-    padding: 0.5em 0;
-}
-
-.photo-item:hover {
-    opacity: 1;
-    transition: 0.8s;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  object-position: center;
+  width: 18em;
+  height: 18em;
+  border-radius: 100%;
+  opacity: 0.7;
+  padding: 0.5em 0;
 }
 
 .description-items {
-    font-size: 2em;
-    color: var(--white-off);
-    text-align: justify;
-}
-
-.description-items:hover {
-    color: var(--white-on);
-    transition: 0.3s;
+  font-size: 2em;
+  color: var(--white-off);
+  text-align: justify;
 }
 
 #description-container {
@@ -120,30 +105,30 @@ figcaption {
   padding-left: 0.5em;
 }
 
-.experience-container {
+.about-containers {
   margin: 1.5em 0;
 }
 
-.experience-title {
-  padding-right: 0.8em;
-  font-size: 2em;
-  color: var(--white-off);
-}
-
-.experience-title:hover {
-  transition: 0.3s;
+.titles {
+  padding: 0.25em 0;
+  text-align: center;
+  font-size: 2.5em;
   color: var(--white-on);
+  border: 0.05em var(--white-on) solid;
+  margin: 0 1em;
+  border-radius: 2em;
 }
 
-.experience-description {
+.about-titles {
+  padding-right: 0.8em;
+  font-size: 2.3em;
+  color: var(--white_off);
+}
+
+.about-subtitles {
   text-align: justify;
   padding-right: 1.2em;
-  font-size: 1.5em;
-  color: var(--white-off);
-}
-
-.experience-description:hover {
-  transition: 0.3s;
+  font-size: 1.6em;
   color: var(--white-on);
 }
 
@@ -151,9 +136,4 @@ figcaption {
   padding: 1em 0.25em;
   font-size: 2em;
   color: var(--white-off);
-}
-
-.certification-items:hover {
-  transition: 0.3s;
-  color: var(--white-on);
 }

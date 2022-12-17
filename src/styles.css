@@ -14,15 +14,20 @@
 /*****************************************************************/
 
 :root {
-    --black-on: #03050c;
-    --white-on: #eef1f8;
-    --white-off: #9a9da7;
-    --green_on: rgb(92, 226, 92);
-    --green_off: rgb(161, 207, 161);
+    --white_on: #9faff1fa;
+    --white_off: #9faff1a1;
+    --green_on: rgb(139, 190, 139);
+    --green_mid: rgba(139, 190, 139, 0.842);
+    --green_off: rgba(139, 190, 139, 0.651);
     --red_on: rgb(248, 93, 93);
     --red_off: rgb(223, 142, 142);
     --blue_on: rgb(6, 164, 255);
     --blue_off: rgb(119, 189, 235);
+    --orange_on: rgb(206, 153, 55);
+    --orange_off: rgba(206, 153, 55, 0.253);
+    --white-off: #ffffff63;
+    --black-on: #03050c;
+    --white-on: #ffffffa8;
 }
 
 * {

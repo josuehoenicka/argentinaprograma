@@ -11,43 +11,35 @@
     "description": "Junto con las tecnologías HTML5, CSS3, JavaScript, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce, actualmente trabajo en el lado del cliente y estoy desarrollando la migración del proyecto para la incorporación de Angular"
   },
   {
-    "title": "Web Developer",
-    "company": "C.D.S",
-    "description": "Utilizando las tecnologías HTML5, BootStrap5 y JavaScript desarrolle un sitio de web cristiano para una iglesia en San Lorenzo, Argentina. Cumpliendo con sus expectativas y aumentando su audiencia por vías redes sociales"
-  },
-  {
-    "title": "Full Stack JavaScript Developer",
-    "company": "-",
-    "description": "Más de 1 año de experiencia desarrollando sitios webs, aplicaciones y plataformas con JavaScript nativo y/o frameworks, librerías, entornos, entre otras tecnologías"
+    "title": "Full Stack Developer",
+    "company": "Freelance",
+    "description": "Junto con las tecnologías HTML5, CSS3, JavaScript, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce, actualmente trabajo en el lado del cliente y estoy desarrollando la migración del proyecto para la incorporación de Angular"
   }
   ],
-  "education": [{
-      "school": "Universidad de Buenos Aires - CUI",
+  "education": [
+    {
+      "school": "INTI / Argentina Programa",
+      "title": "Desarrollo Web Full Stack"
+    },
+    {
+      "school": "UBA / Centro Universitario de Idiomas",
       "title": "Inglés (cursando)"
     },
     {
-        "school": "Instituto Superior N°25 Beppo Levi",
-      "title": "Desarrollo de Software (cursando)"
-    },
-    {
-      "school": "INTI - Argentina Programa",
-      "title": "#YoProgramo (cursando)"
-    },
-    {
-      "school": "INTI - Argentina Programa",
-      "title": "#SéProgramar"
+      "school": "Instituto Superior N°25 - Beppo Levi",
+      "title": "Técnico Superior en Desarrollo de Software (cursando)"
     },
     {
       "school": "freeCodeCamp",
-      "title": "Algorithms with JavaScript (cursando)"
+      "title": "Algorithms and Data Structure with JavaScript (cursando)"
     },
     {
       "school": "freeCodeCamp",
       "title": "Responsive Web Design"
     },
     {
-      "school": "EEMPI N°3060",
-      "title": "Bachiller en Ciencias"
+      "school": "EEMPI N°3060 - San Jorge",
+      "title": "Bachiller en Ciencias Sociales"
     }
   ],
   "languages": [{
