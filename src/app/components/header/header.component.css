@@ -89,7 +89,7 @@ opacity: 0.5;
   color: var(--white-on);
   padding: 0.5em 1.5em;
   border-radius: 1em;
-  background-color: var(--white-off);
+  background-color: var(--white_off);
   color: var(--black-on);
   margin: 0 0.5em;
 }
@@ -101,7 +101,7 @@ padding: 0.5em 1.8em;
 
 .btn-navbar:hover {
   transition: 0.3s;
-  background-color: var(--white-on);
+  background-color: var(--white_on);
 }
 
 .btn-navbar-active:hover {
