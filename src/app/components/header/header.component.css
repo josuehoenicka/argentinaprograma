@@ -81,7 +81,7 @@ opacity: 0.5;
 
 .navbar-items:hover {
   color: var(--white-on);
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 .btn-navbar {
@@ -100,7 +100,7 @@ padding: 0.5em 1.8em;
 }
 
 .btn-navbar:hover {
-  transition: 0.3s;
+  transition: 0.5s;
   background-color: var(--white_on);
 }
 

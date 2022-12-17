@@ -37,11 +37,6 @@
     opacity: 0.8;
 }
 
-.si:hover, .SI:hover, .Si:hover, .sI:hover, .sí:hover, .SÍ:hover, .Sí:hover, .sÍ:hover{
-    transition: 0.3s;
-    opacity: 1;
-}
-
 .no, .NO, .No, .nO {
     opacity: 0.08;
 }
@@ -69,7 +64,7 @@
 
 .lang-items:hover > p {
     color: var(--white-on);
-    transition: 0.3s;
+    transition: 0.5s;
     padding-left: 0.7em;
     cursor: pointer;
 }
@@ -81,7 +76,7 @@
 
 .lvl-items:hover {
     color: var(--white-on);
-    transition: 0.3s;
+    transition: 0.5s;
 }
 
 .flag-items {
