@@ -148,31 +148,24 @@
   ],
   "projects": [
     {
-      "title": "Codebash",
-      "description": "Ecommerce Plataform",
-      "techs": "Angular / Flask / MongoDB",
-      "link_github": "#/projects/working",
-      "link_google": "#/projects/working"
+      "title": "#AllOfMyResources",
+      "description": "GitHub Repository",
+      "techs": "JavaScript",
+      "link_github": "https://github.com/josuehoenicka/javascript",
+      "link_google": "https://github.com/josuehoenicka/javascript"
     },
     {
       "title": "Portfolio 2.0",
       "description": "Dinamic Porfolio",
-      "techs": "Angular / Spring Boot / MySQL",
+      "techs": "Angular + Spring Boot + MySQL",
       "link_github": "https://github.com/josuehoenicka/portfolio2",
       "link_google": "#/"
     },
     {
       "title": "Portfolio 1.0",
       "description": "Static Portolio",
-      "techs": "Angular",
+      "techs": "HTML5 + CCS3 + JavaScript",
       "link_github": "https://github.com/josuehoenicka/portfolio1",
-      "link_google": "#/projects/working"
-    },
-    {
-      "title": "ToDoApp",
-      "description": "SPA/CRUD Application",
-      "techs": "Angular / Spring Boot / PostgreSQL",
-      "link_github": "https://github.com/josuehoenicka/todoapp",
       "link_google": "#/projects/working"
     },
     {
@@ -185,9 +178,23 @@
     {
       "title": "C.D.S",
       "description": "Christian Website",
-      "techs": "BootStrap5 / JavaScript",
+      "techs": "HTML5 + BootStrap5 + JavaScript",
       "link_github": "https://github.com/josuehoenicka/cds",
       "link_google": "https://caminodesantidad.github.io/"
+    },
+    {
+      "title": "Calculator",
+      "description": "Mini Project",
+      "techs": "HTML5 + CSS3 + JavaScript",
+      "link_github": "https://github.com/josuehoenicka/javascript",
+      "link_google": "https://github.com/josuehoenicka/javascript"
+    },
+    {
+      "title": "Codebash",
+      "description": "Ecommerce Plataform",
+      "techs": "Angular + Flask + MongoDB",
+      "link_github": "#/projects/working",
+      "link_google": "#/projects/working"
     }
   ]
 }
