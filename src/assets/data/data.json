@@ -66,13 +66,13 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/tensorflow.png",
-    "title": "TensorflowJS",
+    "img": "../../../assets/tech/web3js.png",
+    "title": "Web3.JS",
     "level": "No"
   },
   {
     "img": "../../../assets/tech/reactjs.png",
-    "title": "ReactJS",
+    "title": "React.JS",
     "level": "No"
   },
   {
@@ -82,22 +82,22 @@
   },
   {
     "img": "../../../assets/tech/nextjs.png",
-    "title": "NextJS",
+    "title": "Next.JS",
     "level": "No"
   },
   {
     "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
+    "title": "Node.JS",
     "level": "Sí"
   },
   {
     "img": "../../../assets/tech/nestjs.svg",
-    "title": "NestJS",
+    "title": "Nest.JS",
     "level": "No"
   },
   {
     "img": "../../../assets/tech/jestjs.png",
-    "title": "JestJS",
+    "title": "Jest.JS",
     "level": "No"
   },
   {
