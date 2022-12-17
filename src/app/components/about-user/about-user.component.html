@@ -3,7 +3,7 @@
     <div id="bio-container">
         <div id="photo-container">
             <div class="edit-description-container">
-              <a class="fa fa-pencil fa-config" routerLink="/configure/profile"><p class="fa-with-text">Editar perfil</p></a>
+              <a class="fa fa-pencil fa-config" routerLink="/configure/profile"><p class="fa-with-text">Editar</p></a>
             </div>
             <figure>
               <img [src]="name.photo" class="photo-item">
@@ -14,21 +14,26 @@
             </figcaption>
         </div>
         <div class="scroll-container">
+          <p class="titles">EXPERIENCIA</p>
           <div *ngFor="let experience of experience" class="description-config-container certification-config">
             <a class="fa fa-pencil fa-config" routerLink="<!--edit-->"></a>
             <a class="fa fa-trash fa-config" routerLink="<!--edit-->"></a>
-            <div class="experience-container">
-              <p class="experience-title">{{experience.title}} / {{experience.company}}</p>
-              <p class="experience-description">{{experience.description}}</p>
+            <div class="about-containers">
+              <p class="about-titles">{{experience.title}} / {{experience.company}}</p>
+              <p class="about-subtitles">{{experience.description}}</p>
             </div>
           </div>
           <a class="fa fa-plus fa-config"></a>
         </div>
         <div class="scroll-container">
+          <p class="titles">EDUCACIÓN</p>
           <div *ngFor="let education of certification" class="description-config-container certification-config">
             <a class="fa fa-pencil fa-config" routerLink="<!--edit-->"></a>
             <a class="fa fa-trash fa-config" routerLink="<!--edit-->"></a>
-            <p class="certification-items">{{education.school}}<br> ↪ {{education.title}}</p>
+            <div class="about-containers">
+              <p class="about-subtitles">{{education.school}}</p>
+              <p class="about-titles">{{education.title}}</p>
+            </div>
           </div>
           <a class="fa fa-plus fa-config" routerLink="/login"></a>
         </div>

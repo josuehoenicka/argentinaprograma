@@ -66,8 +66,8 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/react.png",
-    "title": "React Native",
+    "img": "../../../assets/tech/tensorflow.png",
+    "title": "TensorflowJS",
     "level": "No"
   },
   {
@@ -111,14 +111,14 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/aws.png",
-    "title": "AWS",
+    "img": "../../../assets/tech/webpack.png",
+    "title": "Webpack",
     "level": "No"
   },
   {
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
-    "level": "No"
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/postgresql.png",
@@ -148,11 +148,11 @@
   ],
   "projects": [
     {
-      "title": "#AllOfMyResources",
-      "description": "GitHub Repository",
-      "techs": "JavaScript",
-      "link_github": "https://github.com/josuehoenicka/javascript",
-      "link_google": "https://github.com/josuehoenicka/javascript"
+      "title": "Codebash",
+      "description": "Ecommerce Plataform",
+      "techs": "Angular + Flask + MongoDB",
+      "link_github": "#/projects/working",
+      "link_google": "#/projects/working"
     },
     {
       "title": "Portfolio 2.0",
@@ -188,13 +188,6 @@
       "techs": "HTML5 + CSS3 + JavaScript",
       "link_github": "https://github.com/josuehoenicka/javascript",
       "link_google": "https://github.com/josuehoenicka/javascript"
-    },
-    {
-      "title": "Codebash",
-      "description": "Ecommerce Plataform",
-      "techs": "Angular + Flask + MongoDB",
-      "link_github": "#/projects/working",
-      "link_google": "#/projects/working"
     }
   ]
 }

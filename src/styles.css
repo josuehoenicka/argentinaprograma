@@ -16,13 +16,12 @@
 :root {
     --white_on: #9faff1fa;
     --white_off: #9faff1a1;
-    --green_on: rgb(139, 190, 139);
-    --green_mid: rgba(139, 190, 139, 0.842);
-    --green_off: rgba(139, 190, 139, 0.651);
-    --red_on: rgb(248, 93, 93);
-    --red_off: rgb(223, 142, 142);
-    --blue_on: rgb(6, 164, 255);
-    --blue_off: rgb(119, 189, 235);
+    --green_on: rgb(151, 196, 151);
+    --green_off: rgba(151, 196, 151, 0.596);
+    --red_on: rgb(223, 142, 142);
+    --red_off: rgba(223, 142, 142, 0.582);
+    --blue_on: rgb(100, 171, 219);
+    --blue_off: rgba(100, 171, 219, 0.651);
     --orange_on: rgb(206, 153, 55);
     --orange_off: rgba(206, 153, 55, 0.253);
     --white-off: #ffffff63;
@@ -51,28 +50,28 @@ body::-webkit-scrollbar {
 }
 
 .fa-social {
-    font-size: 3em !important; /*Bug desconocido*/
+  font-size: 3em !important; /*Bug desconocido*/
 }
 
 .fa-pencil {
-    color: var(--blue_off) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
+  color: var(--blue_off) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
 }
 
 .fa-pencil:hover {
-    color: var(--blue_on) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
-    cursor: pointer;
-    transition: 0.3s;
+  color: var(--blue_on) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 .fa-trash {
-    font-size: 2em;
-    color: var(--red_off) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos*/
+  font-size: 2em;
+  color: var(--red_off) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos*/
 }
 
 .fa-trash:hover {
-    color: var(--red_on) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
-    cursor: pointer;
-    transition: 0.3s;
+  color: var(--red_on) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 .fa-chrome {
