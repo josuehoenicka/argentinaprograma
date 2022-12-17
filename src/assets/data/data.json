@@ -1,7 +1,7 @@
 {
   "photo": "../../../assets/personal/josuehoenicka.png",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Full Stack JavaScript Developer",
+  "ocupation": "Full Stack Developer",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "instagram": "https://www.instagram.com/josuehoenicka/",
@@ -11,7 +11,7 @@
     "description": "Junto con las tecnologías HTML5, CSS3, JavaScript, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce, actualmente trabajo en el lado del cliente y estoy desarrollando la migración del proyecto para la incorporación de Angular"
   },
   {
-    "title": "Full Stack Developer",
+    "title": "Full Stack JavaScript Developer",
     "company": "Freelance",
     "description": "Durante más de 1 año he trabajado con tecnologías de Front End y Back End, creando proyectos en conjunto, proyectos personales y he realizado servicios de freelance para empresas/entidades/personas para impulsar su marca y/o emprendimiento"
   }
@@ -66,8 +66,8 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/web3js.png",
-    "title": "Web3.JS",
+    "img": "../../../assets/tech/dart.svg",
+    "title": "Dart",
     "level": "No"
   },
   {
@@ -141,9 +141,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
-    "level": "Sí"
+    "img": "../../../assets/tech/flutter.png",
+    "title": "Flutter",
+    "level": "No"
   }
   ],
   "projects": [
