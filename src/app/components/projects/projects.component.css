@@ -27,12 +27,12 @@
 
 .slider-title{
     font-size: 3.8em;
-    color: var(--white-on);
+    color: var(--white_on);
 }
 
 .slider-description {
     font-size: 1.8em;
-    color: var(--white-off);
+    color: var(--white_off);
 }
 
 .slider-techs {

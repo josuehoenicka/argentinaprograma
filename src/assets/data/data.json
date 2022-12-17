@@ -156,7 +156,7 @@
     },
     {
       "title": "Portfolio 2.0",
-      "description": "SPA & CRUD Porfolio",
+      "description": "Dinamic Porfolio",
       "techs": "Angular / Spring Boot / MySQL",
       "link_github": "https://github.com/josuehoenicka/portfolio2",
       "link_google": "#/"
@@ -178,7 +178,7 @@
     {
       "title": "Joniking",
       "description": "Video Game Website",
-      "techs": "HTML5 / CSS3 / JavaScript",
+      "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/joniking",
       "link_google": "#/projects/working"
     },

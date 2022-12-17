@@ -78,7 +78,6 @@ opacity: 0.5;
   margin: 0 1em;
 }
 
-
 .navbar-items:hover {
   color: var(--white-on);
   transition: 0.5s;
