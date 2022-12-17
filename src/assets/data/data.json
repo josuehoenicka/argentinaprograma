@@ -183,11 +183,18 @@
       "link_google": "https://caminodesantidad.github.io/"
     },
     {
-      "title": "Calculator",
-      "description": "Mini Project",
+      "title": "Calculator 2.0",
+      "description": "GCF & LCM Calculator",
       "techs": "HTML5 + CSS3 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/javascript",
-      "link_google": "https://github.com/josuehoenicka/javascript"
+      "link_github": "https://github.com/josuehoenicka/calculator2",
+      "link_google": "https://github.com/josuehoenicka/calculator2"
+    },
+    {
+      "title": "Calculator 1.0",
+      "description": "Math Calculator",
+      "techs": "HTML5 + CSS3 + JavaScript",
+      "link_github": "https://github.com/josuehoenicka/calculator1",
+      "link_google": "https://github.com/josuehoenicka/calculator1"
     }
   ]
 }
