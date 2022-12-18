@@ -50,7 +50,7 @@ body::-webkit-scrollbar {
 }
 
 .fa-social {
-  font-size: 3em !important; /*Bug desconocido*/
+  font-size: 4em !important; /*Bug desconocido*/
 }
 
 .fa-pencil {
@@ -60,7 +60,7 @@ body::-webkit-scrollbar {
 .fa-pencil:hover {
   color: var(--blue_on) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
   cursor: pointer;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 .fa-trash {
@@ -71,7 +71,7 @@ body::-webkit-scrollbar {
 .fa-trash:hover {
   color: var(--red_on) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
   cursor: pointer;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 .fa-chrome {
@@ -81,7 +81,7 @@ body::-webkit-scrollbar {
 .fa-chrome:hover, .fa-github:hover {
     color: var(--white-on);
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.5s;
 }
 
 .fa-plus {
@@ -95,7 +95,7 @@ body::-webkit-scrollbar {
 .fa-plus:hover {
     color: var(--green_on);
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.5s;
 }
 
 .fa-config {

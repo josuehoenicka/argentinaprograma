@@ -1,7 +1,7 @@
 {
   "photo": "../../../assets/personal/josuehoenicka.png",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Full Stack JavaScript Developer",
+  "ocupation": "Full Stack Developer",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "instagram": "https://www.instagram.com/josuehoenicka/",
@@ -13,7 +13,7 @@
   {
     "title": "Full Stack Developer",
     "company": "Freelance",
-    "description": "Durante más de 1 año he trabajado con tecnologías de Front End y Back End, creando proyectos en conjunto, proyectos personales y he realizado servicios de freelance para empresas/entidades/personas para impulsar su marca y/o emprendimiento"
+    "description": "He trabajado y aprendido tecnologías del Front End y Back End, creando proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
   ],
   "education": [
@@ -48,7 +48,7 @@
   },
   {
     "img": "../../../assets/lang/br.svg",
-    "level": "C1 - AVANZADO/NATIVO"
+    "level": "C1 - AVANZADO"
   },
   {
     "img": "../../../assets/lang/um.svg",
@@ -66,9 +66,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/dart.svg",
-    "title": "Dart",
-    "level": "No"
+    "img": "../../../assets/tech/java.png",
+    "title": "Java",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/reactjs.png",
@@ -78,6 +78,11 @@
   {
     "img": "../../../assets/tech/angular.svg",
     "title": "Angular",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/jwt.png",
+    "title": "JWT",
     "level": "Sí"
   },
   {
@@ -91,34 +96,14 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/nestjs.svg",
-    "title": "Nest.JS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/jestjs.png",
-    "title": "Jest.JS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/redux.png",
-    "title": "Redux",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/graphql.png",
-    "title": "Graphql",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/webpack.png",
-    "title": "Webpack",
-    "level": "No"
+    "img": "../../../assets/tech/spring.png",
+    "title": "Spring Boot",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
-    "level": "Sí"
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/postgresql.png",
@@ -141,9 +126,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/flutter.png",
-    "title": "Flutter",
-    "level": "No"
+    "img": "../../../assets/tech/bootstrap.png",
+    "title": "Bootstrap5",
+    "level": "Sí"
   }
   ],
   "projects": [

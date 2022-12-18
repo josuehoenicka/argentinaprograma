@@ -23,9 +23,9 @@
 }
 
 .tech-items {
-    width: 3.33em;
-    height: 3.33em;
-    margin: 0.66em 5em;
+    width: 4em;
+    height: 4em;
+    margin: 0.8em 5em;
     background-color: transparent;
 }
 
@@ -80,7 +80,7 @@
 }
 
 .flag-items {
-    width: 3.8em;
+    width: 4.5em;
     padding: 1.5em 0;
     cursor: pointer;
 }

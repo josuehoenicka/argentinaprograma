@@ -48,12 +48,6 @@
 }
 
 .social-title {
-  font-size: 3em;
+  font-size: 4em;
   padding-right: 0.5em;
-}
-
-.fa-config-social {
-  display: flex;
-  font-size: 2em;
-  padding-top: 1em;
 }
