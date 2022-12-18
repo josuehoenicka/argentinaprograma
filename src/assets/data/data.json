@@ -42,32 +42,24 @@
       "title": "Bachiller en Ciencias Sociales"
     }
   ],
-  "languages": [{
+  "languages": [
+  {
     "img": "../../../assets/lang/es.svg",
-    "level": "C2 - NATIVO"
+    "level": "AVANZADO/NATIVO"
   },
   {
     "img": "../../../assets/lang/br.svg",
-    "level": "C1 - AVANZADO"
+    "level": "AVANZADO/NATIVO"
   },
   {
     "img": "../../../assets/lang/um.svg",
-    "level": "B1 - INTERMEDIO"
+    "level": "INTERMEDIO"
   }
   ],
-  "techs": [{
+  "techs": [
+  {
     "img": "../../../assets/tech/javascript.png",
     "title": "JavaScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/typescript.png",
-    "title": "TypeScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/java.png",
-    "title": "Java",
     "level": "Sí"
   },
   {
@@ -76,29 +68,9 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/angular.svg",
-    "title": "Angular",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/jwt.png",
-    "title": "JWT",
-    "level": "Sí"
-  },
-  {
     "img": "../../../assets/tech/nextjs.png",
     "title": "Next.JS",
     "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "Node.JS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/spring.png",
-    "title": "Spring Boot",
-    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/mongodb.svg",
@@ -106,14 +78,14 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/postgresql.png",
-    "title": "PostgreSQL",
+    "img": "../../../assets/tech/aws.png",
+    "title": "AWS",
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
-    "level": "Sí"
+    "img": "../../../assets/tech/jestjs.png",
+    "title": "Jest.JS",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/html.svg",
@@ -121,9 +93,69 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/tech/typescript.png",
+    "title": "TypeScript",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/angular.svg",
+    "title": "Angular",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "Node.JS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/postgresql.png",
+    "title": "PostgreSQL",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/firebase.svg",
+    "title": "Firebase",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/redux.png",
+    "title": "Redux",
+    "level": "No"
+  },
+  {
     "img": "../../../assets/tech/css.svg",
     "title": "CSS3",
     "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/java.png",
+    "title": "Java",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/jwt.png",
+    "title": "JWT",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/spring.png",
+    "title": "Spring Boot",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/mysql.png",
+    "title": "MySQL",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/graphql.png",
+    "title": "AWS",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/bootstrap.png",
