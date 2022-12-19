@@ -1,7 +1,7 @@
 {
   "photo": "../../../assets/personal/josuehoenicka.png",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Full Stack Developer",
+  "ocupation": "Full Stack JavaScript Developer",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "instagram": "https://www.instagram.com/josuehoenicka/",
@@ -19,7 +19,7 @@
   "education": [
     {
       "school": "INTI / Argentina Programa",
-      "title": "Desarrollo Web Full Stack"
+      "title": "Full Stack Web Development"
     },
     {
       "school": "UBA / Centro Universitario de Idiomas",
@@ -108,43 +108,13 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/postgresql.png",
-    "title": "PostgreSQL",
-    "level": "No"
+    "img": "../../../assets/tech/mysql.png",
+    "title": "MySQL",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/firebase.svg",
     "title": "Firebase",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/redux.png",
-    "title": "Redux",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/java.png",
-    "title": "Java",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/jwt.png",
-    "title": "JWT",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/spring.png",
-    "title": "Spring Boot",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
     "level": "Sí"
   },
   {
@@ -153,13 +123,44 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/graphql.png",
-    "title": "AWS",
-    "level": "No"
+    "img": "../../../assets/tech/css.svg",
+    "title": "CSS3",
+    "level": "Sí"
+  },
+
+  {
+    "img": "../../../assets/personal/facilidad-en-las-relaciones-interpersonales.png",
+    "title": "Facilidad en las relaciones interpersonales",
+    "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/bootstrap.png",
-    "title": "Bootstrap5",
+    "img": "../../../assets/personal/trabajo-en-equipo.png",
+    "title": "Trabajo en equipo",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/manejo-del-tiempo.png",
+    "title": "Manejo del tiempo",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/atencion-al-detalle.png",
+    "title": "Atención al detalle",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/creatividad.png",
+    "title": "Creatividad",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/auto-crecimiento.png",
+    "title": "Autocrecimiento",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/perseverancia.png",
+    "title": "Perseverancia/Constancia",
     "level": "Sí"
   }
   ],
