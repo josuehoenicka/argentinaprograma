@@ -24,7 +24,7 @@
 .tech-items {
   width: 4.5em;
   height: 4.5em;
-  margin: 2em 1em;
+  margin: 1em 1em;
   background-color: transparent;
 }
 
@@ -45,7 +45,7 @@
     align-items: flex-start;
     flex-direction: column;
     justify-content: center;
-    padding-top: 5.5em;
+    padding-top: 4.5em;
 }
 
 .lang-items {
