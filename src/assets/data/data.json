@@ -58,6 +58,41 @@
   ],
   "techs": [
   {
+    "img": "../../../assets/tech/typescript.png",
+    "title": "TypeScript",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/angular.svg",
+    "title": "Angular",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "Node.JS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/mysql.png",
+    "title": "MySQL",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/firebase.svg",
+    "title": "Firebase",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/css.svg",
+    "title": "CSS3",
+    "level": "Sí"
+  },
+  {
     "img": "../../../assets/tech/javascript.png",
     "title": "JavaScript",
     "level": "Sí"
@@ -93,54 +128,18 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/typescript.png",
-    "title": "TypeScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/angular.svg",
-    "title": "Angular",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "Node.JS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/firebase.svg",
-    "title": "Firebase",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
-    "level": "Sí"
-  },
-
-  {
-    "img": "../../../assets/personal/facilidad-en-las-relaciones-interpersonales.png",
+    "img": "../../../assets/personal/trabajo-en-equipo.png",
     "title": "Facilidad en las relaciones interpersonales",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/personal/trabajo-en-equipo.png",
+    "img": "../../../assets/personal/facilidad-en-las-relaciones-interpersonales.png",
     "title": "Trabajo en equipo",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/personal/manejo-del-tiempo.png",
-    "title": "Manejo del tiempo",
+    "img": "../../../assets/personal/capacidad-de-escuchar.png",
+    "title": "Capacidad de escuchar",
     "level": "Sí"
   },
   {
@@ -160,7 +159,7 @@
   },
   {
     "img": "../../../assets/personal/perseverancia.png",
-    "title": "Perseverancia/Constancia",
+    "title": "Perseverancia / Constancia",
     "level": "Sí"
   }
   ],

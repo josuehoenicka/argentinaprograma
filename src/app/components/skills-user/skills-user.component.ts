@@ -8,9 +8,11 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
 })
 
 export class SkillsUserComponent implements OnInit {
+
   name:any;
   lang:any;
   tech:any;
+
   constructor(private check:PortfolioService) { }
 
   ngOnInit(): void {

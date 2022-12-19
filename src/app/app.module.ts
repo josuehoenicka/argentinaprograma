@@ -57,7 +57,7 @@ import { NoprojectsComponent } from './components/noprojects/noprojects.componen
     HeroUserComponent,
     BuildingComponent,
     ArgprogComponent,
-    NoprojectsComponent
+    NoprojectsComponent,
   ],
   imports: [
     BrowserModule,
