@@ -13,25 +13,25 @@
   {
     "title": "Full Stack Developer",
     "company": "Freelance",
-    "description": "He trabajado y aprendido tecnologías del Front End y Back End, creando proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
+    "description": "Más de un año de experiencia con JavaScript, TypeScript y Angular. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
   ],
   "education": [
-    {
-      "school": "INTI / Argentina Programa",
-      "title": "Full Stack Web Development"
-    },
     {
       "school": "UBA / Centro Universitario de Idiomas",
       "title": "Inglés (cursando)"
     },
     {
-      "school": "Instituto Superior N°25 - Beppo Levi",
-      "title": "Técnico Superior en Desarrollo de Software (cursando)"
+      "school": "AWS",
+      "title": "Web Development Engineer (cursando)"
+    },
+    {
+      "school": "INTI / Argentina Programa",
+      "title": "Full Stack Web Development"
     },
     {
       "school": "freeCodeCamp",
-      "title": "Algorithms and Data Structure with JavaScript (cursando)"
+      "title": "Algorithms and Data Structure with JavaScript"
     },
     {
       "school": "freeCodeCamp",
