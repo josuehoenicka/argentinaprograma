@@ -18,6 +18,14 @@
   ],
   "education": [
     {
+      "school": "INTI / Argentina Programa",
+      "title": "Full Stack Web Development"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "Responsive Web Design"
+    },
+    {
       "school": "UBA / Centro Universitario de Idiomas",
       "title": "Inglés (cursando)"
     },
@@ -26,16 +34,8 @@
       "title": "Web Development Engineer (cursando)"
     },
     {
-      "school": "INTI / Argentina Programa",
-      "title": "Full Stack Web Development"
-    },
-    {
       "school": "freeCodeCamp",
-      "title": "Algorithms and Data Structure with JavaScript"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "Responsive Web Design"
+      "title": "JavaScript Algorithms and Data Structure (cursando)"
     },
     {
       "school": "EEMPI N°3060 - San Jorge",
@@ -73,14 +73,14 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
-    "level": "Sí"
+    "img": "../../../assets/tech/mongodb.svg",
+    "title": "MongoDB",
+    "level": "No"
   },
   {
-    "img": "../../../assets/tech/firebase.svg",
-    "title": "Firebase",
-    "level": "Sí"
+    "img": "../../../assets/tech/graphql.png",
+    "title": "GraphQL",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/html.svg",
@@ -108,13 +108,13 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/mongodb.svg",
-    "title": "MongoDB",
-    "level": "No"
+    "img": "../../../assets/tech/mysql.png",
+    "title": "MySQL",
+    "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/aws.png",
-    "title": "AWS",
+    "img": "../../../assets/tech/redux.png",
+    "title": "Redux",
     "level": "No"
   },
   {
@@ -143,23 +143,58 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/personal/inteligencia-emocional.png",
+    "title": "Inteligencia emocional",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/resolucion-de-problemas.png",
+    "title": "Resolución de problemas",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/negociacion.png",
+    "title": "Negociación",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/manejo-del-conflicto.png",
+    "title": "Manejo del conflicto",
+    "level": "Sí"
+  },
+  {
     "img": "../../../assets/personal/atencion-al-detalle.png",
     "title": "Atención al detalle",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/personal/creatividad.png",
-    "title": "Creatividad",
+    "img": "../../../assets/personal/creatividad-e-innovacion.png",
+    "title": "Creatividad e innovación",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/personal/auto-crecimiento.png",
-    "title": "Autocrecimiento",
+    "img": "../../../assets/personal/pensamiento-analitico-y-critico.png",
+    "title": "Pensamiento analítico y crítico",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/aprendizaje-rapido.png",
+    "title": "Aprendizaje rápido",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/autodesarrollo.png",
+    "title": "Autodesarrollo",
     "level": "Sí"
   },
   {
     "img": "../../../assets/personal/perseverancia.png",
-    "title": "Perseverancia / Constancia",
+    "title": "Perseverancia",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/personal/paciencia.png",
+    "title": "Paciencia",
     "level": "Sí"
   }
   ],
