@@ -23,7 +23,8 @@ form {
 
 input {
     width: 50vw;
-    height: 2em;
+    margin: 0.05em 0;
+    height: 1.7em;
     font-size: 2em;
 }
 
@@ -98,4 +99,10 @@ input {
     text-decoration: none;
     color: var(--white-on);
     transition: 0.1s;
+}
+
+.welcome-message {
+  padding-top: 1em;
+  font-size: 2em;
+  color: var(--white-off);
 }

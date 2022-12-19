@@ -29,6 +29,7 @@ import { HeroUserComponent } from './components/hero-user/hero-user.component';
 import { BuildingComponent } from './components/building/building.component';
 import { ArgprogComponent } from './components/argprog/argprog.component';
 import { NoprojectsComponent } from './components/noprojects/noprojects.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -63,7 +64,8 @@ import { NoprojectsComponent } from './components/noprojects/noprojects.componen
     BrowserModule,
     HttpClientModule,
     RouterModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
