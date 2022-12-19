@@ -68,8 +68,8 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "Node.JS",
+    "img": "../../../assets/tech/node.png",
+    "title": "Node.JS + Express.JS",
     "level": "Sí"
   },
   {
@@ -83,13 +83,13 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
+    "img": "../../../assets/tech/html.svg",
+    "title": "HTML5",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
     "level": "Sí"
   },
   {
@@ -118,14 +118,14 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/jestjs.png",
-    "title": "Jest.JS",
-    "level": "No"
+    "img": "../../../assets/tech/css.svg",
+    "title": "CSS3",
+    "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/html.svg",
-    "title": "HTML5",
-    "level": "Sí"
+    "img": "../../../assets/tech/docker.svg",
+    "title": "Docker",
+    "level": "No"
   },
   {
     "img": "../../../assets/personal/trabajo-en-equipo.png",
