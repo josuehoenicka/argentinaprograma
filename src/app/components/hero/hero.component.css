@@ -5,7 +5,7 @@
 .title-container {
 background-color: transparent;
 color: var(--white-off);
-font-size: 4em;
+font-size: 5em;
 padding-top: 3em;
 width: 100vw;
 height: 50vh;
@@ -28,14 +28,14 @@ flex-direction: column;
 }
 
 .btn-start-img {
-width: 14.5em;
-opacity: 0.3;
+  width: 14.5em;
+  opacity: 0.3;
 }
 
 .btn-start-img:hover {
   transition: 0.5s;
   opacity: 1;
-  }
+}
 
 .a-space {
 background-color: transparent;
