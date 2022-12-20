@@ -2,8 +2,14 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { AboutUserComponent } from './components/about-user/about-user.component';
 import { AboutComponent } from './components/about/about.component';
+import { AddEducationComponent } from './components/add-education/add-education.component';
+import { AddExperienceComponent } from './components/add-experience/add-experience.component';
+import { AddProjectsComponent } from './components/add-projects/add-projects.component';
 import { ArgprogComponent } from './components/argprog/argprog.component';
 import { BuildingComponent } from './components/building/building.component';
+import { ConfigEducationComponent } from './components/config-education/config-education.component';
+import { ConfigExperienceComponent } from './components/config-experience/config-experience.component';
+import { ConfigLangsComponent } from './components/config-langs/config-langs.component';
 import { ConfigProfileComponent } from './components/config-profile/config-profile.component';
 import { ConfigProjectsComponent } from './components/config-projects/config-projects.component';
 import { ConfigSkillsComponent } from './components/config-skills/config-skills.component';
@@ -81,6 +87,18 @@ const routes: Routes = [
     component: ConfigSkillsComponent
   },
   {
+    path: 'configure/education',
+    component: ConfigEducationComponent
+  },
+  {
+    path: 'configure/experience',
+    component: ConfigExperienceComponent
+  },
+  {
+    path: 'configure/langs',
+    component: ConfigLangsComponent
+  },
+  {
     path: 'building',
     component: BuildingComponent
   },
@@ -91,6 +109,18 @@ const routes: Routes = [
   {
     path: 'argprog',
     component: ArgprogComponent
+  },
+  {
+    path: 'add/education',
+    component: AddEducationComponent
+  },
+  {
+    path: 'add/experience',
+    component: AddExperienceComponent
+  },
+  {
+    path: 'add/projects',
+    component: AddProjectsComponent
   },
   {
     path: '**',

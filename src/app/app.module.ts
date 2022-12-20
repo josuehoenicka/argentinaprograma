@@ -30,6 +30,12 @@ import { BuildingComponent } from './components/building/building.component';
 import { ArgprogComponent } from './components/argprog/argprog.component';
 import { NoprojectsComponent } from './components/noprojects/noprojects.component';
 import { FormsModule } from '@angular/forms';
+import { ConfigLangsComponent } from './components/config-langs/config-langs.component';
+import { ConfigExperienceComponent } from './components/config-experience/config-experience.component';
+import { ConfigEducationComponent } from './components/config-education/config-education.component';
+import { AddEducationComponent } from './components/add-education/add-education.component';
+import { AddExperienceComponent } from './components/add-experience/add-experience.component';
+import { AddProjectsComponent } from './components/add-projects/add-projects.component';
 
 @NgModule({
   declarations: [
@@ -59,6 +65,12 @@ import { FormsModule } from '@angular/forms';
     BuildingComponent,
     ArgprogComponent,
     NoprojectsComponent,
+    ConfigLangsComponent,
+    ConfigExperienceComponent,
+    ConfigEducationComponent,
+    AddEducationComponent,
+    AddExperienceComponent,
+    AddProjectsComponent,
   ],
   imports: [
     BrowserModule,
