@@ -1,9 +1,9 @@
 <app-header-user></app-header-user>
 <section id="skills">
-    <div class="slideshow-container">
+    <div class="experience-container">
         <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
         <div>
-          <div class="mySlides2" *ngFor="let exp of experience">
+          <div class="mySlides2" *ngFor="let exp of exp">
             <div class="slider-container-structure">
               <fieldset>
                 <legend>Cargo</legend>
@@ -21,9 +21,6 @@
             <a routerLink="<!--edit-->" class="save-configskills-btn configskill-btn">Guardar</a>
             <a routerLink="<!--edit-->" class="delete-configskills-btn configskill-btn">Borrar</a>
             <a (click)="backClicked()" class="cancel-configskills-btn configskill-btn">Cancelar</a>
-          </div>
-          <div class="slide-bottom-container">
-            <p (class="title-slide-text")>Haz clic en las flechas para desplazar</p>
           </div>
         </div>
         <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>

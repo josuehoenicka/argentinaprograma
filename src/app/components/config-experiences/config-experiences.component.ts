@@ -3,15 +3,15 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
 import {Location} from '@angular/common';
 
 @Component({
-  selector: 'app-config-experience',
-  templateUrl: './config-experience.component.html',
-  styleUrls: ['./config-experience.component.css']
+  selector: 'app-config-experiences',
+  templateUrl: './config-experiences.component.html',
+  styleUrls: ['./config-experiences.component.css']
 })
-export class ConfigExperienceComponent implements OnInit {
+
+export class ConfigExperiencesComponent implements OnInit {
 
   name:any;
-  experience:any;
-  certification:any;
+  exp:any;
 
   constructor(private check:PortfolioService, private _location: Location)
   {}
@@ -23,8 +23,7 @@ export class ConfigExperienceComponent implements OnInit {
   ngOnInit(): void {
     this.check.test().subscribe(data => {
       this.name=data;
-      this.experience=data.experience;
-      this.certification=data.education;
+      this.exp=data.experience;
     });
   }
 

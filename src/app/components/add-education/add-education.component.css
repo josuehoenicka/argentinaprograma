@@ -33,9 +33,9 @@
 }
 
 fieldset {
+  margin: 1em 0;
   border-color: var(--white-off);
 }
-
 legend {
   color: var(--white-off);
   padding: 0 1em;

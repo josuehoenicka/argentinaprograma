@@ -22,12 +22,12 @@
   display: none;
 }
 
-.slideshow-container {
+.experience-container {
   width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 9em;
+  padding-top: 3em;
 }
 
 .prev, .next {
@@ -99,7 +99,7 @@ legend {
   outline: none;
   background-color: transparent;
   color: var(--white-on);
-  height: 20vh;
+  height: 25vh;
   padding: 0.5em;
   resize: none;
 }

@@ -26,8 +26,9 @@
 }
 
 .slider-title{
-    font-size: 3.8em;
-    color: var(--white_on);
+  font-family: 'Alumni Sans Pinstripe';
+  font-size: 3.8em;
+  color: var(--white_on);
 }
 
 .slider-description {
