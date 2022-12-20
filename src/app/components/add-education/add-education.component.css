@@ -36,14 +36,15 @@ fieldset {
   margin: 1em 0;
   border-color: var(--white-off);
 }
+
 legend {
   color: var(--white-off);
   padding: 0 1em;
-  font-size: 1.6em;
+  font-size: 2em;
   text-align: center;
 }
 
-.input-text, .inputs-link {
+.input-text {
   width: 100%;
   font-size: 2em;
   border: none;
@@ -53,18 +54,12 @@ legend {
   padding:  0.5em 0 0.5em 1em;
 }
 
-.inputs-link {
-  width: 50vw;
-  font-size: 2em;
-  border-bottom: 0.01em var(--white-off) solid;
-}
-
 .configproject-btn {
   color: var(--black-on);
   padding: 0.5em 2em;
   text-decoration: none;
   border-radius: 2em;
-  font-size: 1.8em;
+  font-size: 2em;
   margin: 0 0.5em;
   text-align: center;
 }

@@ -27,7 +27,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 3em;
+  padding-top: 4em;
 }
 
 .prev, .next {
@@ -109,7 +109,7 @@ legend {
   padding: 0.5em 2em;
   text-decoration: none;
   border-radius: 2em;
-  font-size: 1.8em;
+  font-size: 2em;
   margin: 0 0.5em;
   text-align: center;
 }

@@ -1,4 +1,6 @@
-# Project by Josue Hoenicka
+# Josue Hoenicka | Portfolio 2.0
+
+<img src="portfolio2" alt="josue hoenicka portfolio 2.0" title="Josue Hoenicka | Portfolio 2.0">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 

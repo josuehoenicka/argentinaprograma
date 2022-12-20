@@ -40,13 +40,13 @@ fieldset {
 legend {
   color: var(--white-off);
   padding: 0 1em;
-  font-size: 1.6em;
+  font-size: 1.77em;
   text-align: center;
 }
 
 .input-text, .inputs-link {
   width: 100%;
-  font-size: 1.88em;
+  font-size: 2em;
   border: none;
   outline: none;
   background-color: transparent;
@@ -77,7 +77,7 @@ legend {
   padding: 0.5em 2em;
   text-decoration: none;
   border-radius: 2em;
-  font-size: 1.8em;
+  font-size: 2em;
   margin: 0 0.5em;
   text-align: center;
 }

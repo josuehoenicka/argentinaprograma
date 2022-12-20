@@ -67,7 +67,7 @@ fieldset {
 legend {
     color: var(--white-off);
     padding: 0 1em;
-    font-size: 1.4em;
+    font-size: 2em;
 }
 
 .slide-img-tech {
@@ -79,18 +79,18 @@ legend {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 2em;
+    padding-bottom: 3em;
 }
 
 .input-skill-file {
     font-size: 1em;
-    padding: 0.5em 0;
+    padding: 1em 0;
     color: var(--white-off);
 }
 
 .input-text-slider {
     width: 50vw;
-    font-size: 1.88em;
+    font-size: 2.5em;
     border: none;
     outline: none;
     background-color: transparent;
@@ -103,7 +103,7 @@ legend {
     padding: 0.5em 2em;
     text-decoration: none;
     border-radius: 2em;
-    font-size: 1.8em;
+    font-size: 2em;
     margin: 0 0.5em;
     text-align: center;
 }
