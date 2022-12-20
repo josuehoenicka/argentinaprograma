@@ -8,7 +8,7 @@ import { AddProjectsComponent } from './components/add-projects/add-projects.com
 import { ArgprogComponent } from './components/argprog/argprog.component';
 import { BuildingComponent } from './components/building/building.component';
 import { ConfigEducationComponent } from './components/config-education/config-education.component';
-import { ConfigExperienceComponent } from './components/config-experience/config-experience.component';
+import { ConfigExperiencesComponent } from './components/config-experiences/config-experiences.component';
 import { ConfigLangsComponent } from './components/config-langs/config-langs.component';
 import { ConfigProfileComponent } from './components/config-profile/config-profile.component';
 import { ConfigProjectsComponent } from './components/config-projects/config-projects.component';
@@ -91,8 +91,8 @@ const routes: Routes = [
     component: ConfigEducationComponent
   },
   {
-    path: 'configure/experience',
-    component: ConfigExperienceComponent
+    path: 'configure/experiences',
+    component: ConfigExperiencesComponent
   },
   {
     path: 'configure/langs',
