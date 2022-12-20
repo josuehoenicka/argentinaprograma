@@ -60,7 +60,7 @@
 }
 
 fieldset {
-  margin: 1em 0;
+  margin: 1.4em 0;
   border-color: var(--white-off);
 }
 
@@ -110,7 +110,7 @@ legend {
   text-decoration: none;
   border-radius: 2em;
   font-size: 1.8em;
-  margin: 0 0.5em;
+  margin: 1em 0.5em;
   text-align: center;
 }
 

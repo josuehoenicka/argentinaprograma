@@ -22,8 +22,8 @@
 }
 
 .tech-items {
-    width: 4.5em;
-    height: 4.5em;
+    width: 5em;
+    height: 5em;
     margin: 1em 1em;
     background-color: transparent;
 }
@@ -68,7 +68,7 @@
 
 .lvl-items {
     color: var(--white-off);
-    font-size: 2.5em;
+    font-size: 3em;
 }
 
 .lvl-items:hover {
@@ -77,7 +77,7 @@
 }
 
 .flag-items {
-    width: 4.5em;
+    width: 5.5em;
     padding: 1.5em 0;
     cursor: pointer;
 }

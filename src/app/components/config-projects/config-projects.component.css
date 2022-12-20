@@ -27,7 +27,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 7.3em;
+    padding-top: 4em;
 }
 
 .prev, .next {
@@ -60,6 +60,7 @@
 }
 
 fieldset {
+  margin: 0.5em 0;
     border-color: var(--white-off);
 }
 
@@ -98,7 +99,8 @@ legend {
 }
 
 .input-link-slider {
-    border-bottom: 0.01em var(--white-off) solid;
+  margin: 0.5em 0 ;
+  border-bottom: 0.01em var(--white-off) solid;
 }
 
 .configproject-btn {

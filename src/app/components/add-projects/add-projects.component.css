@@ -55,7 +55,8 @@ legend {
 }
 
 .inputs-link {
-  width: 65vw;
+  margin: 0.15em 0;
+  width: 70vw;
   font-size: 2em;
   border-bottom: 0.01em var(--white-off) solid;
 }

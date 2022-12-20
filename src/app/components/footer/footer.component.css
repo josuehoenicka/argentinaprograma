@@ -15,7 +15,7 @@ footer {
   justify-content: center;
   align-items: center;
   color: var(--white-off);
-  font-size: 2.4em;
+  font-size: 2.6em;
 }
 
 .link-footer {
@@ -27,7 +27,7 @@ color: var(--white-off);
 
 .link-footer:hover {
   letter-spacing: 0.05em;
-  transition: 0.5s;
+  transition: 0.333s;
   color: var(--white-on);
 }
 
