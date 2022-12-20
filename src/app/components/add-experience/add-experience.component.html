@@ -3,25 +3,21 @@
   <div class="container">
     <div class="inputs-container">
       <fieldset>
-        <legend>Nombre del proyecto</legend>
-        <input type="text" class="input-text" placeholder="" maxlength="15">
+        <legend>Cargo</legend>
+        <input type="text" class="input-text" placeholder="(ejemplo: Software Engineer)" maxlength="15">
       </fieldset>
       <fieldset>
-        <legend>Descripción del proyecto</legend>
-        <input type="text" class="input-text" placeholder="" maxlength="25">
+        <legend>Empresa</legend>
+        <input type="text" class="input-text" placeholder="(ejemplo: Amazon)" maxlength="15">
       </fieldset>
       <fieldset>
-        <legend>¿Qué tecnologías tiene?</legend>
-        <input type="text" class="input-text" placeholder="" maxlength="70">
+        <legend>Descripción del trabajo</legend>
+        <textarea type="text" class="input-description" placeholder="(ejemplo: Desarrolle muchos proyectos por más de 10 años y crecí en conjunto con mi equipo de trabajo)" maxlength="245"></textarea>
       </fieldset>
-    </div>
-    <div class="inputs-link-container">
-        <input type="text" class="inputs-link" placeholder="Link de deploy del proyecto">
-        <input type="text" class="inputs-link" placeholder="Link del proyecto en GitHub">
     </div>
     <div class="btn-container">
       <a routerLink="<!--edit-->" class="save-configprojects-btn configproject-btn">Guardar</a>
-      <a routerLink="/home/user/projects" class="cancel-configprojects-btn configproject-btn">Cancelar</a>
+      <a (click)="backClicked()" class="cancel-configprojects-btn configproject-btn">Cancelar</a>
     </div>
   </div>
 </section>

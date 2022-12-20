@@ -8,9 +8,9 @@
         </div>
     </div>
     <div id="lang-container">
-        <div *ngFor="let languages of lang" class="lang-items">
-            <img [src]="languages.img" class="flag-items">
-            <p class="lvl-items">{{languages.level}}</p>
+        <div *ngFor="let lang of lang" class="lang-items">
+            <img [src]="lang.img" title="{{lang.name}}" class="flag-items">
+            <p class="lvl-items">{{lang.level}}</p>
         </div>
     </div>
 </section>

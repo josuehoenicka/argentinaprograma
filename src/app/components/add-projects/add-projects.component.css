@@ -50,11 +50,11 @@ legend {
   outline: none;
   background-color: transparent;
   color: var(--white-on);
-  padding:  0.05em 0 0.05em 0.5em;
+  padding:  0.10em 0 0.25em 0.5em;
 }
 
 .inputs-link {
-  width: 50vw;
+  width: 65vw;
   font-size: 2em;
   border-bottom: 0.01em var(--white-off) solid;
 }

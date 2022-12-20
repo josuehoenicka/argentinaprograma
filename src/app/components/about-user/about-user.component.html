@@ -15,27 +15,27 @@
         </div>
         <div class="scroll-container">
           <p class="titles">EXPERIENCIA</p>
+          <a class="fa fa-plus fa-config" routerLink="/add/experience"></a>
           <div *ngFor="let experience of experience" class="description-config-container certification-config">
-            <a class="fa fa-pencil fa-config" routerLink="<!--edit-->"></a>
-            <a class="fa fa-trash fa-config" routerLink="<!--edit-->"></a>
+            <a class="fa fa-pencil fa-config" routerLink="/configure/experience"></a>
+            <a class="fa fa-trash fa-config" routerLink="/configure/experience"></a>
             <div class="about-containers">
               <p class="about-titles">{{experience.title}} / {{experience.company}}</p>
               <p class="about-subtitles">{{experience.description}}</p>
             </div>
           </div>
-          <a class="fa fa-plus fa-config"></a>
         </div>
         <div class="scroll-container">
           <p class="titles">EDUCACIÓN</p>
+          <a class="fa fa-plus fa-config" routerLink="/add/education"></a>
           <div *ngFor="let education of certification" class="description-config-container certification-config">
-            <a class="fa fa-pencil fa-config" routerLink="<!--edit-->"></a>
-            <a class="fa fa-trash fa-config" routerLink="<!--edit-->"></a>
+            <a class="fa fa-pencil fa-config" routerLink="/configure/education"></a>
+            <a class="fa fa-trash fa-config" routerLink="/configure/education"></a>
             <div class="about-containers">
               <p class="about-subtitles">{{education.school}}</p>
               <p class="about-titles">{{education.title}}</p>
             </div>
           </div>
-          <a class="fa fa-plus fa-config" routerLink="/login"></a>
         </div>
     </div>
 </section>

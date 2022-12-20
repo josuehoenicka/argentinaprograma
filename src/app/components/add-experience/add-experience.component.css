@@ -29,7 +29,7 @@
 }
 
 .btn-container {
-  padding: 1.5em 0;
+  padding: 3em 0;
 }
 
 fieldset {
@@ -50,7 +50,19 @@ legend {
   outline: none;
   background-color: transparent;
   color: var(--white-on);
-  padding:  0.05em 0 0.05em 0.5em;
+  padding:  0.25em 0 0.5em 0.5em;
+}
+
+.input-description {
+  width: 100%;
+  font-size: 1.88em;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: var(--white-on);
+  height: 20vh;
+  padding: 0.5em;
+  resize: none;
 }
 
 .inputs-link {
@@ -69,16 +81,13 @@ legend {
   text-align: center;
 }
 
-.configproject-btn:hover {
-  transition: 0.5s;
-  cursor: pointer;
-}
-
 .cancel-configprojects-btn {
   background-color: var(--white-off);
 }
 
 .cancel-configprojects-btn:hover {
+  cursor: pointer;
+  transition: 0.5s;
   background-color: var(--white-on);
 }
 
@@ -87,13 +96,7 @@ legend {
 }
 
 .save-configprojects-btn:hover {
+  cursor: pointer;
+  transition: 0.5s;
   background-color: var(--green_on);
-}
-
-.delete-configprojects-btn {
-  background-color: var(--red_off);
-}
-
-.delete-configprojects-btn:hover {
-  background-color: var(--red_on);
 }
