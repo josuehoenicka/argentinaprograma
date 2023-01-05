@@ -1,19 +1,19 @@
 {
   "photo": "../../../assets/personal/josuehoenicka.png",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Full Stack JavaScript Developer",
+  "ocupation": "Front End Developer",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "instagram": "https://www.instagram.com/josuehoenicka/",
   "experience": [{
-    "title": "Front End Developer",
+    "title": "Angular Developer",
     "company": "Codebash",
-    "description": "Junto con las tecnologías HTML5, CSS3, JavaScript, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce, actualmente trabajo en el lado del cliente y estoy desarrollando la migración del proyecto para la incorporación de Angular"
+    "description": "Junto con las tecnologías Angular, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce, actualmente trabajo en el lado del cliente y estoy desarrollando la migración del proyecto de templates HTML5, CSS3, JavaScript a Angular"
   },
   {
-    "title": "Full Stack Developer",
+    "title": "Front End Developer",
     "company": "Freelance",
-    "description": "Más de un año de experiencia con JavaScript, TypeScript y Angular. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
+    "description": "Más de dos años de experiencia con HTML5, CSS3, Bootstrap5, JavaScript, TypeScript, Angular y NodeJS. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
   ],
   "education": [
@@ -86,9 +86,9 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/angular.svg",
-    "title": "Angular",
-    "level": "Sí"
+    "img": "../../../assets/tech/dart.png",
+    "title": "Dart",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/postgresql.png",
@@ -111,14 +111,14 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "Express.js",
-    "level": "No"
+    "img": "../../../assets/tech/angular.svg",
+    "title": "Angular",
+    "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
-    "level": "Sí"
+    "img": "../../../assets/tech/flutter.png",
+    "title": "Flutter",
+    "level": "No"
   },
   {
     "img": "../../../assets/personal/trabajo-en-equipo.png",
