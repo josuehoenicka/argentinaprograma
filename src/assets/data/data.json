@@ -61,6 +61,26 @@
   ],
   "techs": [
   {
+    "img": "../../../assets/tech/html.svg",
+    "title": "HTML5",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/css.svg",
+    "title": "CSS3",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/bootstrap.png",
+    "title": "Bootstrap",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/javascript.png",
+    "title": "JavaScript",
+    "level": "Sí"
+  },
+  {
     "img": "../../../assets/tech/typescript.png",
     "title": "TypeScript",
     "level": "Sí"
@@ -71,8 +91,13 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/node.png",
-    "title": "Node.JS + Express.JS",
+    "img": "../../../assets/tech/postgresql.png",
+    "title": "PostgreSQL",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/mysql.png",
+    "title": "MongoDB",
     "level": "Sí"
   },
   {
@@ -81,54 +106,19 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/graphql.png",
-    "title": "GraphQL",
+    "img": "../../../assets/tech/node.png",
+    "title": "Node.js",
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/html.svg",
-    "title": "HTML5",
-    "level": "Sí"
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "Express.js",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/git.png",
     "title": "Git",
     "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/javascript.png",
-    "title": "JavaScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/reactjs.png",
-    "title": "React.JS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/nextjs.png",
-    "title": "Next.JS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/redux.png",
-    "title": "Redux",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/docker.svg",
-    "title": "Docker",
-    "level": "No"
   },
   {
     "img": "../../../assets/personal/trabajo-en-equipo.png",
@@ -188,16 +178,6 @@
   {
     "img": "../../../assets/personal/autodesarrollo.png",
     "title": "Autodesarrollo",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/perseverancia.png",
-    "title": "Perseverancia",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/paciencia.png",
-    "title": "Paciencia",
     "level": "Sí"
   }
   ],
