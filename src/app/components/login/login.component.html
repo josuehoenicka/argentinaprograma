@@ -1,18 +1,18 @@
 <div class="login-container">
     <div class="form-with-news-container">
-        <form>
+        <form class="m-5" (ngSubmit)="onEnviar($event)">
             <input type="text" name="email_login" placeholder="Email address" id="email_login" required autocomplete="off" class="input-login">
             <input type="password" name="password_login" placeholder="Password" id="password_login" required class="input-login">
             <div id="btn-container">
-                <input routerLink="/home" type="submit" value="Login" id="btn-login-login">
-            </div>
-            <div id="btn-container">
-                <input routerLink="/register" type="submit" value="Register" id="btn-register-login">
-            </div>
-            <div id="btn-container">
-                <input routerLink="" type="submit" value="Volver al portfolio original" id="btn-return-login">
+                <input type="submit" value="Login" id="btn-login-login">
             </div>
         </form>
+        <div id="btn-container">
+            <input routerLink="/register" type="submit" value="Register" id="btn-register-login">
+        </div>
+        <div id="btn-container">
+            <input routerLink="" type="submit" value="Volver al portfolio original" id="btn-return-login">
+        </div>
         <div class="news-container">
             <img routerLink="/argprog" src="../../../assets/others/argprog.png" alt="argentina programa" id="news">
         </div>
