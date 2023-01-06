@@ -71,11 +71,6 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/bootstrap.png",
-    "title": "Bootstrap",
-    "level": "Sí"
-  },
-  {
     "img": "../../../assets/tech/javascript.png",
     "title": "JavaScript",
     "level": "Sí"
@@ -86,29 +81,39 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/tech/python.png",
+    "title": "Python",
+    "level": "No"
+  },
+  {
     "img": "../../../assets/tech/dart.png",
     "title": "Dart",
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/postgresql.png",
-    "title": "PostgreSQL",
-    "level": "No"
-  },
-  {
     "img": "../../../assets/tech/mysql.png",
-    "title": "MongoDB",
+    "title": "MySQL",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/mongodb.svg",
-    "title": "MongoDB",
-    "level": "No"
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/sass.png",
+    "title": "SASS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/bootstrap.png",
+    "title": "Bootstrap5",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/node.png",
     "title": "Node.js",
-    "level": "No"
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/angular.svg",
@@ -116,14 +121,24 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/tech/tensorflow.png",
+    "title": "Tensorflow",
+    "level": "No"
+  },
+  {
     "img": "../../../assets/tech/flutter.png",
     "title": "Flutter",
     "level": "No"
   },
   {
-    "img": "../../../assets/personal/trabajo-en-equipo.png",
-    "title": "Facilidad en las relaciones interpersonales",
-    "level": "Sí"
+    "img": "../../../assets/tech/mongodb.svg",
+    "title": "MongoDB",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/docker.png",
+    "title": "Docker",
+    "level": "No"
   },
   {
     "img": "../../../assets/personal/facilidad-en-las-relaciones-interpersonales.png",
@@ -146,11 +161,6 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/personal/manejo-del-conflicto.png",
-    "title": "Manejo del conflicto",
-    "level": "Sí"
-  },
-  {
     "img": "../../../assets/personal/negociacion.png",
     "title": "Negociación",
     "level": "Sí"
@@ -168,16 +178,6 @@
   {
     "img": "../../../assets/personal/pensamiento-analitico-y-critico.png",
     "title": "Pensamiento analítico y crítico",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/aprendizaje-rapido.png",
-    "title": "Aprendizaje rápido",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/autodesarrollo.png",
-    "title": "Autodesarrollo",
     "level": "Sí"
   }
   ],
