@@ -86,11 +86,6 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/dart.png",
-    "title": "Dart",
-    "level": "No"
-  },
-  {
     "img": "../../../assets/tech/mysql.png",
     "title": "MySQL",
     "level": "Sí"
@@ -126,11 +121,6 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/flutter.png",
-    "title": "Flutter",
-    "level": "No"
-  },
-  {
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
     "level": "No"
@@ -148,11 +138,6 @@
   {
     "img": "../../../assets/personal/capacidad-de-escuchar.png",
     "title": "Capacidad de escuchar",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/inteligencia-emocional.png",
-    "title": "Inteligencia emocional",
     "level": "Sí"
   },
   {
