@@ -66,11 +66,6 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
-    "level": "Sí"
-  },
-  {
     "img": "../../../assets/tech/javascript.png",
     "title": "JavaScript",
     "level": "Sí"
@@ -78,6 +73,16 @@
   {
     "img": "../../../assets/tech/typescript.png",
     "title": "TypeScript",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/node.png",
+    "title": "Node.js",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/java.png",
+    "title": "Java",
     "level": "Sí"
   },
   {
@@ -91,28 +96,28 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
+    "img": "../../../assets/tech/css.svg",
+    "title": "CSS3",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/sass.png",
-    "title": "SASS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/bootstrap.png",
-    "title": "Bootstrap5",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/node.png",
-    "title": "Node.js",
-    "level": "Sí"
+    "img": "../../../assets/tech/reactjs.png",
+    "title": "React.js",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/angular.svg",
     "title": "Angular",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/nextjs.png",
+    "title": "Nextjs",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/spring.png",
+    "title": "Spring Boot",
     "level": "Sí"
   },
   {
@@ -123,11 +128,6 @@
   {
     "img": "../../../assets/tech/mongodb.svg",
     "title": "MongoDB",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/docker.png",
-    "title": "Docker",
     "level": "No"
   },
   {
