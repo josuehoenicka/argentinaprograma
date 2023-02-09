@@ -24,6 +24,9 @@ import { NavComponent } from './nav/nav/nav.component';
   imports: [
     CommonModule,
     ViewRoutingModule
+  ],
+  exports: [
+
   ]
 })
 export class ViewModule { }
