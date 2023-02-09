@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "./dist/josuehoenicka-portfolio2",
+    "public": "dist/springular",
     "ignore": [
       "firebase.json",
       "**/.*",
