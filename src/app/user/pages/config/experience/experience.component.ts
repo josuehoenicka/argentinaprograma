@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 
+import { PortfolioService } from 'src/app/services/portfolio.service';
+import {Location} from '@angular/common';
+
 @Component({
   selector: 'app-experience',
   templateUrl: './experience.component.html',
@@ -7,9 +10,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ExperienceComponent implements OnInit {
 
-  constructor() { }
+  name:any;
+  exp:any;
 
-  ngOnInit(): void {
+  constructor(private check:PortfolioService, private _location: Location)
+  {}
+
+  backClicked() {
+    this._location.back();
   }
 
+  ngOnInit(): void {
+    this.check.test().subscribe(data => {
+      this.name=data;
+      this.exp=data.experience;
+    });
+  }
 }
