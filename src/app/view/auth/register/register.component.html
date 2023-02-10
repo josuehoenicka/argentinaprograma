@@ -1,4 +1,5 @@
 <section>
+  <p *ngIf="nameRegister" class="welcome-message">Un gusto en conocerte {{nameRegister}} !</p>
   <form action="/register" method="POST">
       <input [(ngModel)]="nameRegister" type="text" name="name_register" placeholder="Nombre y apellido" id="name_register" class="input_register" required autocomplete="off" maxlength="20">
       <input type="email" name="email_register" placeholder="Correo electrónico" id="email_register" class="input_register" required autocomplete="off" maxlength="50">
@@ -8,5 +9,4 @@
       <button type="submit" class="btn-back" routerLink="">Volver</button>
       <button type="submit" class="btn-register" routerLink="/home">Registrarse</button>
   </form>
-  <p class="welcome-message">Un gusto en conocerte {{nameRegister}} :)</p>
 </section>
