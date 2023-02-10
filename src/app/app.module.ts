@@ -18,7 +18,6 @@ import { RegisterComponent } from './components/register/register.component';
 import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './components/home/home.component';
 import { AboutComponent } from './components/about/about.component';
-import { SkillsComponent } from './components/skills/skills.component';
 import { ProjectsComponent } from './components/projects/projects.component';
 import { SocialComponent } from './components/social/social.component';
 import { HomeUserComponent } from './components/home-user/home-user.component';
@@ -38,6 +37,7 @@ import { AddEducationComponent } from './components/add-education/add-education.
 import { AddExperienceComponent } from './components/add-experience/add-experience.component';
 import { AddProjectsComponent } from './components/add-projects/add-projects.component';
 import { ConfigExperiencesComponent } from './components/config-experiences/config-experiences.component';
+import { SkillsComponent } from './components/skills/skills.component';
 
 
 @NgModule({

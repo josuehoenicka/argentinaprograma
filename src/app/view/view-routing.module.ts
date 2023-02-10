@@ -1,7 +1,9 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { LoginComponent } from '../components/login/login.component';
-import { RegisterComponent } from '../components/register/register.component';
+
+import { LoginComponent } from './auth/login/login.component';
+import { RegisterComponent } from './auth/register/register.component';
+
 import { AboutComponent } from './pages/about/about.component';
 import { ArgprogComponent } from './pages/argprog/argprog.component';
 import { ContactComponent } from './pages/contact/contact.component';

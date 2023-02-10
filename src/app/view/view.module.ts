@@ -9,6 +9,8 @@ import { SkillsComponent } from './pages/skills/skills.component';
 import { ProjectsComponent } from './pages/projects/projects.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { NavComponent } from './nav/nav/nav.component';
+import { LoginComponent } from './auth/login/login.component';
+import { RegisterComponent } from './auth/register/register.component';
 
 
 @NgModule({
@@ -19,7 +21,9 @@ import { NavComponent } from './nav/nav/nav.component';
     SkillsComponent,
     ProjectsComponent,
     ContactComponent,
-    NavComponent
+    NavComponent,
+    LoginComponent,
+    RegisterComponent
   ],
   imports: [
     CommonModule,
