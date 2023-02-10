@@ -10,6 +10,8 @@ import { SkillsComponent } from './pages/skills/skills.component';
 import { NavComponent } from './nav/nav/nav.component';
 import { EducationComponent } from './pages/config/education/education.component';
 import { ExperienceComponent } from './pages/config/experience/experience.component';
+import { LanguagesComponent } from './pages/config/languages/languages.component';
+import { ProfileComponent } from './pages/config/profile/profile.component';
 
 
 @NgModule({
@@ -21,7 +23,9 @@ import { ExperienceComponent } from './pages/config/experience/experience.compon
     SkillsComponent,
     NavComponent,
     EducationComponent,
-    ExperienceComponent
+    ExperienceComponent,
+    LanguagesComponent,
+    ProfileComponent
   ],
   imports: [
     CommonModule,
