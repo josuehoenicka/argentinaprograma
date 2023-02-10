@@ -11,6 +11,7 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { NavComponent } from './nav/nav/nav.component';
 import { LoginComponent } from './auth/login/login.component';
 import { RegisterComponent } from './auth/register/register.component';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -27,7 +28,8 @@ import { RegisterComponent } from './auth/register/register.component';
   ],
   imports: [
     CommonModule,
-    ViewRoutingModule
+    ViewRoutingModule,
+    FormsModule
   ],
   exports: [
 

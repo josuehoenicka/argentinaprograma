@@ -1,1 +1,12 @@
-<p>register works!</p>
+<section>
+  <form action="/register" method="POST">
+      <input [(ngModel)]="nameRegister" type="text" name="name_register" placeholder="Nombre y apellido" id="name_register" class="input_register" required autocomplete="off" maxlength="20">
+      <input type="email" name="email_register" placeholder="Correo electrónico" id="email_register" class="input_register" required autocomplete="off" maxlength="50">
+      <input type="text" name="ocupation_register" placeholder="Descripción / Ocupación (ejemplo: Programador Web)" id="ocupation_register" class="input_register" required autocomplete="off" maxlength="35">
+      <input type="password" name="password_register" placeholder="Introducir contraseña" id="password_register" class="input_register" required autocomplete="off" maxlength="77">
+      <input type="password" name="repassword_register" placeholder="Re-introducir contraseña" id="repassword_register" class="input_register" required autocomplete="off" maxlength="77">
+      <button type="submit" class="btn-back" routerLink="">Volver</button>
+      <button type="submit" class="btn-register" routerLink="/home">Registrarse</button>
+  </form>
+  <p class="welcome-message">Un gusto en conocerte {{nameRegister}} :)</p>
+</section>
