@@ -7,7 +7,7 @@ import { Location } from '@angular/common';
   templateUrl: './education.component.html',
   styleUrls: ['./education.component.scss']
 })
-export class EducationComponent implements OnInit {
+export class ConfigEducationComponent implements OnInit {
 
   name:any;
   edu:any;

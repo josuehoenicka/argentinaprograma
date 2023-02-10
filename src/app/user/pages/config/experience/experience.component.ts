@@ -8,7 +8,7 @@ import {Location} from '@angular/common';
   templateUrl: './experience.component.html',
   styleUrls: ['./experience.component.css']
 })
-export class ExperienceComponent implements OnInit {
+export class ConfigExperienceComponent implements OnInit {
 
   name:any;
   exp:any;

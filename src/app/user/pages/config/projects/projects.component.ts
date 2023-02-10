@@ -1,15 +1,23 @@
 import { Component, OnInit } from '@angular/core';
+import { PortfolioService } from 'src/app/services/portfolio.service';
 
 @Component({
   selector: 'app-projects',
   templateUrl: './projects.component.html',
   styleUrls: ['./projects.component.css']
 })
-export class ProjectsComponent implements OnInit {
 
-  constructor() { }
+export class ConfigProjectsComponent implements OnInit {
+
+  name:any;
+  project:any;
+  constructor(private check:PortfolioService) { }
 
   ngOnInit(): void {
+    this.check.test().subscribe(data => {
+      this.name=data;
+      this.project=data.projects;
+    });
   }
 
 }

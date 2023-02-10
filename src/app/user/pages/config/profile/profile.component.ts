@@ -8,7 +8,7 @@ import {Location} from '@angular/common';
   templateUrl: './profile.component.html',
   styleUrls: ['./profile.component.scss']
 })
-export class ProfileComponent implements OnInit {
+export class ConfigProfileComponent implements OnInit {
 
   name:any;
   experience:any;

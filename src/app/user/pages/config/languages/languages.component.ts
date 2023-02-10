@@ -8,7 +8,7 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
   templateUrl: './languages.component.html',
   styleUrls: ['./languages.component.scss']
 })
-export class LanguagesComponent implements OnInit {
+export class ConfigLanguagesComponent implements OnInit {
 
   name:any;
   lang:any;
