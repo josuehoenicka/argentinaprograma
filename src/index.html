@@ -11,37 +11,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Josue Hoenicka | Portfolio 2.0</title>
-    <script>
-      let slideIndex = [1,1];
-      let slideId = ["mySlides1", "mySlides2"]
-      showSlides(1, 0);
-      showSlides(1, 1);
-      function plusSlides(n, no) {
-        showSlides(slideIndex[no] += n, no);
-      }
-
-      function showSlides(n, no) {
-        let i;
-        let x = document.getElementsByClassName(slideId[no]);
-        if (n > x.length) {slideIndex[no] = 1}
-        if (n < 1) {slideIndex[no] = x.length}
-        for (i = 0; i < x.length; i++) {
-          x[i].style.display = "none";
-        }
-        x[slideIndex[no]-1].style.display = "block";
-      }
-      function buildingForm() {
-        alert("\nForm disabled, try to contact me through social networks!");
-      }
-      function buildingProjects() {
-        alert("\nProject in building, please try later");
-      }
-      function project() {
-        alert("\nYou're on the project right now! ;)");
-      }
-    </script>
-</head>
-  <body class="mat-typography">
+  </head>
+  <body>
     <app-root></app-root>
+    <script src="./assets/data/main.js"></script>
   </body>
 </html>
