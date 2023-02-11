@@ -13,6 +13,9 @@ import { ConfigExperienceComponent } from './pages/config/experience/experience.
 import { ConfigLanguagesComponent} from './pages/config/languages/languages.component';
 import { ConfigProfileComponent } from './pages/config/profile/profile.component';
 import { ConfigProjectsComponent } from './pages/config/projects/projects.component';
+import { AddExperienceComponent } from './pages/add/experience/experience.component';
+import { AddEducationComponent } from './pages/add/education/education.component';
+import { AddProjectsComponent } from './pages/add/projects/projects.component';
 
 
 @NgModule({
@@ -27,7 +30,10 @@ import { ConfigProjectsComponent } from './pages/config/projects/projects.compon
     ConfigExperienceComponent,
     ConfigLanguagesComponent,
     ConfigProfileComponent,
-    ConfigProjectsComponent
+    ConfigProjectsComponent,
+    AddExperienceComponent,
+    AddEducationComponent,
+    AddProjectsComponent
   ],
   imports: [
     CommonModule,
