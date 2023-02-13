@@ -187,50 +187,50 @@
       "title": "Codebash",
       "description": "Ecommerce Plataform",
       "techs": "Angular + Flask + MongoDB",
-      "link_github": "#/projects/working",
-      "link_google": "#/projects/working"
+      "link_github": "/projects/working",
+      "link_google": "/projects/working"
     },
     {
-      "title": "Portfolio 2.0",
-      "description": "Dinamic Porfolio",
+      "title": "Springular",
+      "description": "Portfolio (this project)",
       "techs": "Angular + Spring Boot + MySQL",
-      "link_github": "https://github.com/josuehoenicka/portfolio2",
-      "link_google": "#/"
+      "link_github": "https://github.com/josuehoenicka/springular",
+      "link_google": "https://springular.web.app"
     },
     {
-      "title": "Portfolio 1.0",
-      "description": "Static Portolio",
-      "techs": "HTML5 + CCS3 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/portfolio1",
-      "link_google": "https://josuehoenicka.github.io/portfolio1/"
+      "title": "Bandicootfolio",
+      "description": "Portolio",
+      "techs": "Angular",
+      "link_github": "https://github.com/josuehoenicka/bandicootfolio",
+      "link_google": "https://bandicootfolio.web.app"
     },
     {
-      "title": "Joniking",
+      "title": "Hoenixstore",
+      "description": "Ecommerce Plataform",
+      "techs": "Angular",
+      "link_github": "https://github.com/josuehoenicka/hoenixstore",
+      "link_google": "/projects/working"
+    },
+    {
+      "title": "Wanderlist",
+      "description": "Travel Application",
+      "techs": "Angular",
+      "link_github": "https://github.com/josuehoenicka/wanderlist",
+      "link_google": "/projects/working"
+    },
+    {
+      "title": "Rotwaiming",
       "description": "Video Game Website",
       "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/joniking",
-      "link_google": "#/projects/working"
+      "link_github": "https://github.com/josuehoenicka/rotwaiming",
+      "link_google": "/projects/working"
     },
     {
       "title": "C.D.S",
-      "description": "Christian Website",
-      "techs": "HTML5 + BootStrap5 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/cds",
-      "link_google": "https://caminodesantidad.github.io/"
-    },
-    {
-      "title": "Calculator 2.0",
-      "description": "GCF & LCM Calculator",
-      "techs": "HTML5 + CSS3 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/calculator2",
-      "link_google": "https://github.com/josuehoenicka/calculator2"
-    },
-    {
-      "title": "Calculator 1.0",
-      "description": "Math Calculator",
-      "techs": "HTML5 + CSS3 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/calculator1",
-      "link_google": "https://github.com/josuehoenicka/calculator1"
+      "description": "Christian Church Website",
+      "techs": "Bootstrap5 + JavaScript",
+      "link_github": "/projects/working",
+      "link_google": "/projects/private"
     }
   ]
 }
