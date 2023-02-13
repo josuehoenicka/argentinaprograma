@@ -44,19 +44,19 @@
   ],
   "languages": [
   {
+    "img": "../../../assets/lang/um.svg",
+    "name": "Inglés",
+    "level": "INTERMEDIO"
+  },
+  {
     "img": "../../../assets/lang/es.svg",
     "name": "Español",
-    "level": "AVANZADO/NATIVO"
+    "level": "FLUENTE"
   },
   {
     "img": "../../../assets/lang/br.svg",
     "name": "Portugués",
-    "level": "AVANZADO/NATIVO"
-  },
-  {
-    "img": "../../../assets/lang/um.svg",
-    "name": "Inglés",
-    "level": "INTERMEDIO"
+    "level": "FLUENTE"
   }
   ],
   "techs": [
