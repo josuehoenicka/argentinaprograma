@@ -200,21 +200,21 @@
     {
       "title": "Bandicootfolio",
       "description": "Portolio",
-      "techs": "Angular",
+      "techs": "SASS + Angular",
       "link_github": "https://github.com/josuehoenicka/bandicootfolio",
       "link_google": "https://bandicootfolio.web.app"
     },
     {
       "title": "Hoenixstore",
       "description": "Ecommerce Plataform",
-      "techs": "Angular",
+      "techs": "SASS + Angular",
       "link_github": "https://github.com/josuehoenicka/hoenixstore",
       "link_google": "/projects/working"
     },
     {
       "title": "Wanderlist",
       "description": "Travel Application",
-      "techs": "Angular",
+      "techs": "SASS + Angular",
       "link_github": "https://github.com/josuehoenicka/wanderlist",
       "link_google": "/projects/working"
     },
