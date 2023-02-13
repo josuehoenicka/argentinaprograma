@@ -18,28 +18,44 @@
   ],
   "education": [
     {
-      "school": "INTI / Argentina Programa",
+      "school": "Universidad de Buenos Aires",
+      "title": "English for IT (cursando)"
+    },
+    {
+      "school": "Codo a Codo",
+      "title": "Full Stack JavaScript Development (cursando)"
+    },
+    {
+      "school": "Platzi",
+      "title": "Front End Specializing with Angular (cursando)"
+    },
+    {
+      "school": "Argentina Programa",
       "title": "Full Stack Web Development"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "Introduction to Programming"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "JavaScript Algorithms & Data Structure"
     },
     {
       "school": "freeCodeCamp",
       "title": "Responsive Web Design"
     },
     {
-      "school": "UBA / Centro Universitario de Idiomas",
-      "title": "Inglés (cursando)"
+      "school": "Medeiros Tecnología LTDA",
+      "title": "Computing"
     },
     {
-      "school": "AWS",
-      "title": "Web Development Engineer (cursando)"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms and Data Structure (cursando)"
+      "school": "Medeiros Tecnología LTDA",
+      "title": "Brazilian Portuguese"
     },
     {
       "school": "EEMPI N°3060 - San Jorge",
-      "title": "Bachiller en Ciencias Sociales"
+      "title": "High School Degree"
     }
   ],
   "languages": [
