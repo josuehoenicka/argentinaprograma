@@ -221,7 +221,7 @@
     {
       "title": "Rottwames",
       "description": "Video Game Website",
-      "techs": "Angular + NodeJS + ExpressJS + MongoDB",
+      "techs": "Angular + NodeJS + MongoDB",
       "link_github": "https://github.com/josuehoenicka/rotwaiming",
       "link_google": "/projects/working"
     },
