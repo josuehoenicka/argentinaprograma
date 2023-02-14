@@ -38,32 +38,32 @@ body::-webkit-scrollbar {
 }
 
 .fa-social {
-  font-size: 4em !important; /*Bug desconocido*/
+  font-size: 4em !important; /* Fix bug icons */
 }
 
 .fa-pencil {
-  color: var(--blue_off) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
+  color: var(--blue_off) !important; /* The important is not to damage the effect of social networks, when removing the important the 'fa' of edition and delete will be white */
 }
 
 .fa-pencil:hover {
-  color: var(--blue_on) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
+  color: var(--blue_on) !important; /* The important is not to damage the effect of social networks, when removing the important the 'fa' of edition and delete will be white */
   cursor: pointer;
   transition: 0.5s;
 }
 
 .fa-trash {
   font-size: 2em;
-  color: var(--red_off) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos*/
+  color: var(--red_off) !important; /* The important is not to damage the effect of social networks, when removing the important the 'fa' of edition and delete will be white */
 }
 
 .fa-trash:hover {
-  color: var(--red_on) !important; /*El important es para no dañar el efecto de las redes sociales, al quitar el important los 'fa' de edicion y eliminar serán blancos */
+  color: var(--red_on) !important; /* The important is not to damage the effect of social networks, when removing the important the 'fa' of edition and delete will be white */
   cursor: pointer;
   transition: 0.5s;
 }
 
 .fa-chrome {
-    font-size: 2.6em !important; /*El important es porque el 'fa' de google es más grande que los demás por defecto*/
+    font-size: 2.6em !important; /* The important is because the 'fa' of google is bigger than the others by default */
 }
 
 .fa-chrome:hover, .fa-github:hover {
