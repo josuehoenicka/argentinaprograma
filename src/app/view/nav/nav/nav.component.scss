@@ -113,7 +113,8 @@ nav {
       display: flex;
       width: 100%;
       justify-content: flex-end;
-      font-size: 4.5em;
+      font-family: 'Anton', sans-serif;
+      font-size: 3.5em;
       color: red;
     }
     ul {
@@ -123,11 +124,17 @@ nav {
         margin: 0.5em 0;
         color: var(--white-on);
         a {
+          font-family: 'Amatic SC', cursive;
           text-decoration: none;
-            color: var(--white-on);
+          color: var(--white-on);
         }
       }
     }
+  }
+  .nav-name {
+    font-family: 'Amatic SC', cursive;
+    font-size: 3.2em;
+    color: var(--white-on);
   }
 }
 

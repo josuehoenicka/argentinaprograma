@@ -13,6 +13,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 flex-direction: column;
+font-family: 'Amatic SC', cursive;
 }
 
 .start-container {
@@ -46,14 +47,18 @@ color: var(--white-on);
 // Mobile
 @media (min-width: 15em) and (max-width: 39.9em){
   .title-container {
-    background-color: transparent;
-    color: var(--white-off);
-    font-size: 5em;
-    padding-top: 3em;
-    width: 100vw;
-    height: 50vh;
+    padding: 3em 0.1em 0 0.1em;
+    font-size: 4.5em;
     text-align: center;
     }
+    .start-container {
+      width: 100vw;
+      display: flex;
+      justify-content: center;
+      background-color: transparent;
+      padding: 3em 0;
+    }
+
 }
 
 // Tablet
