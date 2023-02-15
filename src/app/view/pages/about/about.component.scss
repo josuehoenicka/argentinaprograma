@@ -135,3 +135,11 @@ figcaption {
   font-size: 2em;
   color: var(--white-off);
 }
+
+// Mobile
+@media (min-width: 15em) and (max-width: 39.9em){
+}
+
+// Tablet
+@media  screen and (min-width: 40em) and (max-width: 63.9em){
+}

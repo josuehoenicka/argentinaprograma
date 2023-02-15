@@ -1,4 +1,22 @@
 <nav>
+    <div class="show-mobile">
+      <div>
+        <button (click)="toggleMenu()" [class.active]="activeMenu">
+          <img src="../../../../assets/items/nav.svg" alt="menu">
+        </button>
+        <p class="nav-name" routerLink="/home">Bandicootfolio</p>
+      </div>
+      <div class="side-menu" [class.active]="activeMenu">
+        <button (click)="toggleMenu()">X</button>
+        <ul>
+          <li><a routerLink="/about">Sobre mí</a></li>
+          <li><a routerLink="/skills">Habilidades</a></li>
+          <li><a routerLink="/experience">Proyectos</a></li>
+          <li><a routerLink="/contact">Redes Sociales</a></li>
+          <li><a href="../../../../assets/personal/cv.pdf">CV</a></li>
+        </ul>
+      </div>
+    </div>
     <div id="logo-nav-container">
         <img routerLink="/argprog" src="../../../assets/others/argprog.png" alt="argentina programa" class="logo-nav">
     </div>
