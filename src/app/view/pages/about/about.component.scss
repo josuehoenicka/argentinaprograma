@@ -138,6 +138,31 @@ figcaption {
 
 // Mobile
 @media (min-width: 15em) and (max-width: 39.9em){
+  #about-me {
+    padding-top: 7em;
+    height: 100%;
+  }
+  #bio-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    padding-top: 1em;
+  }
+  .scroll-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2em;
+    width: 100vw;
+    height: 100vh;
+    margin-top: 3em;
+    padding-top: 1em;
+    line-height: 2em;
+    overflow-y: hidden;
+  }
 }
 
 // Tablet
