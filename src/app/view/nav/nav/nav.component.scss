@@ -12,7 +12,7 @@ nav {
   display: none;
 }
 
-#logo-nav-container {
+.logo-nav-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,7 +30,7 @@ nav {
   }
 }
 
-#navbar-container {
+.navbar-container {
   width: 100vw;
   display: flex;
   align-items: center;
@@ -69,6 +69,9 @@ nav {
 
 // Mobile
 @media (min-width: 15em) and (max-width: 39.9em){
+  .logo-nav-container, .navbar-container {
+    display: none;
+  }
   .show-mobile {
     display: block;
     z-index: 1000 !important;

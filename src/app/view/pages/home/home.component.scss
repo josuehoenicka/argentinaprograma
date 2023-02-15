@@ -42,3 +42,20 @@ background-color: transparent;
 padding-left: 0.2em;
 color: var(--white-on);
 }
+
+// Mobile
+@media (min-width: 15em) and (max-width: 39.9em){
+  .title-container {
+    background-color: transparent;
+    color: var(--white-off);
+    font-size: 5em;
+    padding-top: 3em;
+    width: 100vw;
+    height: 50vh;
+    text-align: center;
+    }
+}
+
+// Tablet
+@media  screen and (min-width: 40em) and (max-width: 63.9em){
+}
