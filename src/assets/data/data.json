@@ -87,23 +87,13 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/test.png",
-    "title": "SASS",
+    "img": "../../../assets/tech/javascript.png",
+    "title": "JavaScript",
     "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/tailwind.svg",
-    "title": "TailwindCSS",
-    "level": "No"
   },
   {
     "img": "../../../assets/tech/typescript.png",
     "title": "TypeScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/javascript.png",
-    "title": "JavaScript",
     "level": "Sí"
   },
   {
@@ -112,18 +102,8 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/angular.svg",
-    "title": "Angular",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/reactjs.png",
-    "title": "React",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/rxjs.png",
-    "title": "RxJS",
+    "img": "../../../assets/tech/mysql.png",
+    "title": "MySQL",
     "level": "Sí"
   },
   {
@@ -132,13 +112,58 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
     "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/sass.png",
+    "title": "SASS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/reactjs.png",
+    "title": "React",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/angular.svg",
+    "title": "Angular",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/jwt.png",
+    "title": "JWT",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/graphql.png",
+    "title": "GraphQL",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/rxjs.png",
+    "title": "RxJs",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/docker.png",
+    "title": "Docker",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/tailwind.svg",
+    "title": "TailwindCSS",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/nodejs.png",
     "title": "NodeJS",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/expressjs.svg",
+    "title": "ExpressJS",
     "level": "No"
   },
   {
@@ -147,39 +172,14 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/personal/facilidad-en-las-relaciones-interpersonales.png",
-    "title": "Trabajo en equipo",
-    "level": "Sí"
+    "img": "../../../assets/tech/redux.png",
+    "title": "Redux",
+    "level": "No"
   },
   {
-    "img": "../../../assets/personal/capacidad-de-escuchar.png",
-    "title": "Capacidad de escuchar",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/resolucion-de-problemas.png",
-    "title": "Resolución de problemas",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/negociacion.png",
-    "title": "Negociación",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/atencion-al-detalle.png",
-    "title": "Atención al detalle",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/creatividad-e-innovacion.png",
-    "title": "Creatividad e innovación",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/pensamiento-analitico-y-critico.png",
-    "title": "Pensamiento analítico y crítico",
-    "level": "Sí"
+    "img": "../../../assets/tech/ngrx.svg",
+    "title": "NgRx",
+    "level": "No"
   }
   ],
   "projects": [
