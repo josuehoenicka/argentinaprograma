@@ -1,5 +1,8 @@
 <section>
-  <p *ngIf="nameRegister" class="welcome-message">Un gusto en conocerte {{nameRegister}} !</p>
+  <p *ngIf="nameRegister; else elseWelcomeMessage" class="welcome-message">Bienvenido, un gusto en conocerte {{nameRegister}} !</p>
+  <ng-template #elseWelcomeMessage>
+    <p class="welcome-message">Bienvenido, un gusto en conocerte !</p>
+  </ng-template>
   <form action="/register" method="POST">
       <input [(ngModel)]="nameRegister" type="text" name="name_register" placeholder="Nombre y apellido" id="name_register" class="input_register" required autocomplete="off" maxlength="20">
       <input type="email" name="email_register" placeholder="Correo electrónico" id="email_register" class="input_register" required autocomplete="off" maxlength="50">

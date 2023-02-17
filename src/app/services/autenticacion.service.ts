@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { BehaviorSubject, Observable, observable } from 'rxjs';
+import { BehaviorSubject, Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { json } from 'express';
 
@@ -10,7 +10,7 @@ import { json } from 'express';
 export class AutenticacionService {
   url = "apiurl";
   currentUserSubject: BehaviorSubject<any>;
-  constructor(private http:HttpClient) { 
+  constructor(private http:HttpClient) {
     console.log("El servicio de autenticacion esta corriendo de 10 pa")
     this.currentUserSubject = new BehaviorSubject<any>(JSON.parse(sessionStorage.getItem('currentUser')|| '{}'))
   }
