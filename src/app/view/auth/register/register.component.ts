@@ -12,7 +12,7 @@ export class RegisterComponent implements OnInit {
   password!:any;
   descriptionRegister!: string;
   passwordRegister!:any;
-  passwordRequerid = 8;
+  passwordRequired = 8;
   confirmPasswordRegister!: any;
   confirmPasswordRegister2 = null || undefined || 0;
 

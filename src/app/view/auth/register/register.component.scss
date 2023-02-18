@@ -28,15 +28,16 @@ input {
   background-color: transparent;
   padding: 0.2em 0.5em;
   color: var(--white-on);
+  transition: all ease .1s;
 }
 
 .input_register:focus {
   border-left: 0.2em solid var(--red_active);
-  transition: 0.1s;
   &.valid {
     border-left: 0.2em solid var(--green_active);
   }
 }
+
 
 .btn-register {
   margin: 0.25em 0;
