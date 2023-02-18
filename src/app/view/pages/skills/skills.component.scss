@@ -95,7 +95,7 @@
     align-items: center;
     width: 100vw;
     user-select: none;
-    padding-top: 25em;
+    padding-top: 27em;
   }
   #tech-container {
   display: flex;
@@ -117,13 +117,13 @@
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    padding-top: 2em;
   }
   .lang-items {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-
   .lang-items:hover > p {
     color: var(--white-on);
     transition: 0.5s;
@@ -141,7 +141,6 @@
   }
   .flag-items {
     width: 5em;
-    margin: 0 0.5em;
-    border-radius: 10em;
+    margin: 0 1em;
   }
 }
