@@ -108,9 +108,15 @@ color: var(--white-off);
   }
   .only-mobile {
     display: block;
-    padding-top: 69em;
+    padding-top: 90em;
   }
   .projects-mobile {
     padding: 3em 0;
+  }
+  .fa-chrome {
+    font-size: 4em !important;
+  }
+  .fa-on-projects {
+    font-size: 4.7em;
   }
 }
