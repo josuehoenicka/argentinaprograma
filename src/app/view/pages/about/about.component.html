@@ -11,15 +11,18 @@
             </figcaption>
         </div>
         <div class="scroll-container">
-          <p class="titles active">EXPERIENCIA</p>
+          <p class="titles">EXPERIENCIA</p>
+          <p class="titles active">Scroll Down</p>
+          <hr>
           <div *ngFor="let experience of experience" class="description-config-container certification-config">
             <div class="about-containers">
               <p class="about-titles">{{experience.title}} / {{experience.company}}</p>
               <p class="about-subtitles">{{experience.description}}</p>
+              <hr>
             </div>
           </div>
         </div>
-        <div class="scroll-container">
+        <div class="scroll-container education-section">
           <p class="titles">EDUCACIÓN</p>
           <div *ngFor="let education of certification" class="description-config-container certification-config">
             <div class="about-containers">

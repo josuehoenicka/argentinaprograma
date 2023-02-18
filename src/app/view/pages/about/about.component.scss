@@ -151,19 +151,25 @@ figcaption {
     align-items: center;
     width: 100vw;
     padding-top: 1em;
+    .fig-title {
+      font-size: 3em;
+    }
   }
   .scroll-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    margin-top: 2em;
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     margin-top: 3em;
+    margin-right: 0;
     padding-top: 1em;
     line-height: 2em;
     overflow-y: hidden;
+    &.education-section {
+      display: none;
+    }
     .description-config-container {
       display: flex;
       align-items: center;
@@ -172,23 +178,31 @@ figcaption {
         margin: 1em 0;
         .about-titles {
           text-align: center;
-          padding: 0;
+          padding-right: 0;
           font-size: 2em;
           color: var(--white_off);
         }
-        .about-subtitles, .about-active {
-          text-align: center;
-          padding: 0 0.25em;
+        .about-subtitles {
+          text-align: justify-all;
+          padding: 0 1em;
           font-size: 1.7em;
           color: var(--white-on);
         }
+        .certification-items {
+          padding: 0;
+        }
     }
+    }
+    hr {
+      margin: 2em 0;
     }
     .titles {
-      padding: 0;
       margin: 0;
       font-size: 3em;
       border: none;
+      &.active {
+        font-size: 2em;
+      }
     }
     .active {
       margin: 0;
