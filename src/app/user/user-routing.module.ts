@@ -14,11 +14,11 @@ import { ConfigProjectsComponent } from './pages/config/projects/projects.compon
 const routes: Routes = [
   {
     path: '',
-    redirectTo: '/home',
+    redirectTo: '/index',
     pathMatch: 'full'
   },
   {
-    path: 'home',
+    path: 'index',
     component: HomeComponent
   },
   {

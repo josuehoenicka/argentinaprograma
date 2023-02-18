@@ -8,13 +8,13 @@ import { AboutComponent } from './pages/about/about.component';
 import { ArgprogComponent } from './pages/argprog/argprog.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { HomeComponent } from './pages/home/home.component';
-import { NotfoundComponent } from './pages/notfound/notfound.component';
 import { ProjectsComponent } from './pages/projects/projects.component';
 import { SkillsComponent } from './pages/skills/skills.component';
 
 const routes: Routes = [
 
-  { path: '',
+  {
+    path: '',
     redirectTo: '/home',
     pathMatch: 'full'
   },
