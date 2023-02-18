@@ -7,7 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RegisterComponent implements OnInit {
 
-  nameRegister!:string;
+  nameRegister!:any;
+  emailRegister!:any;
+  password!:any;
+  descriptionRegister!: string;
+  passwordRegister!:any;
+  passwordRequerid = 8;
+  confirmPasswordRegister!: any;
+  confirmPasswordRegister2 = null || undefined || 0;
 
   constructor() { }
 
