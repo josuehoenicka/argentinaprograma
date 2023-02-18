@@ -113,10 +113,9 @@ figcaption {
   margin: 0.25em 5em;
   border: 0.1em var(--white-off) solid;
   border-radius: 2em;
-}
-
-.active {
+  &.active-desktop {
   margin: 0.25em 4.7em;
+  }
 }
 
 .about-titles {
