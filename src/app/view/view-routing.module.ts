@@ -13,8 +13,13 @@ import { ProjectsComponent } from './pages/projects/projects.component';
 import { SkillsComponent } from './pages/skills/skills.component';
 
 const routes: Routes = [
+
+  { path: '',
+    redirectTo: '/home',
+    pathMatch: 'full'
+  },
   {
-    path: '',
+    path: 'home',
     component: HomeComponent
   },
   {
@@ -44,10 +49,6 @@ const routes: Routes = [
   {
     path: 'register',
     component: RegisterComponent
-  },
-  {
-    path: 'error',
-    component: NotfoundComponent
   }
 ];
 
