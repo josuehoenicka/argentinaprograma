@@ -184,13 +184,6 @@
   ],
   "projects": [
     {
-      "title": "Codebash",
-      "description": "Ecommerce Plataform",
-      "techs": "Angular + Flask + MongoDB",
-      "link_github": "/projects/working",
-      "link_google": "/projects/working"
-    },
-    {
       "title": "Springular",
       "description": "Portfolio (this project)",
       "techs": "Angular + Spring Boot + MySQL",
@@ -223,6 +216,13 @@
       "description": "Video Game Website",
       "techs": "Angular + NodeJS + MongoDB",
       "link_github": "https://github.com/josuehoenicka/rotwaiming",
+      "link_google": "/projects/working"
+    },
+    {
+      "title": "Codebash",
+      "description": "Ecommerce Plataform",
+      "techs": "Angular + Flask + MongoDB",
+      "link_github": "/projects/working",
       "link_google": "/projects/working"
     },
     {

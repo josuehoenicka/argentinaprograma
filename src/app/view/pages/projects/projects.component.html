@@ -16,4 +16,15 @@
         </div>
         <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
     </div>
+    <div class="only-mobile">
+      <div class="projects-to-mobile" *ngFor="let proj of project">
+
+        <div class="projects-mobile">
+          <h4 class="slider-title">{{proj.title}}</h4>
+          <a href="{{proj.link_github}}" target="_blank" class="fa fa-github fa-on-projects"></a>
+          <a href="{{proj.link_google}}" target="_blank" class="fa fa-chrome fa-on-projects"></a>
+        </div>
+      <hr>
+      </div>
+    </div>
 </section>

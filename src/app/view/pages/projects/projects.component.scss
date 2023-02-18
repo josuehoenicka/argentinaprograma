@@ -9,6 +9,10 @@
   padding-top: 7em;
 }
 
+.only-mobile {
+  display: none;
+}
+
 .slide-container {
   display: flex;
   flex-direction: column;
@@ -95,4 +99,18 @@ color: var(--white-off);
 .slider-icons {
   font-size: 2em;
   cursor: pointer;
+}
+
+// Mobile
+@media (min-width: 15em) and (max-width: 39.9em){
+  .slideshow-container {
+    display: none;
+  }
+  .only-mobile {
+    display: block;
+    padding-top: 69em;
+  }
+  .projects-mobile {
+    padding: 3em 0;
+  }
 }
