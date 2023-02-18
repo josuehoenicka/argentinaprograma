@@ -1,3 +1,7 @@
+hr {
+  display: none;
+}
+
 .scroll-container {
   display: flex;
   flex-direction: column;
@@ -115,6 +119,9 @@ figcaption {
   border-radius: 2em;
   &.active-desktop {
   margin: 0.25em 4.7em;
+  }
+  &.active {
+    display: none;
   }
 }
 
