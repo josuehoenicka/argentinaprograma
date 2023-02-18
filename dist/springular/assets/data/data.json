@@ -1,98 +1,89 @@
 {
-  "photo": "../../../assets/personal/josuehoenicka.png",
+  "photo": "../../../assets/personal/josuehoenicka.jpg",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Full Stack JavaScript Developer",
+  "ocupation": "Front End Developer",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "instagram": "https://www.instagram.com/josuehoenicka/",
   "experience": [{
-    "title": "Front End Developer",
+    "title": "Angular Developer",
     "company": "Codebash",
-    "description": "Junto con las tecnologías HTML5, CSS3, JavaScript, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce, actualmente trabajo en el lado del cliente y estoy desarrollando la migración del proyecto para la incorporación de Angular"
+    "description": "Junto con las tecnologías Angular, Flask y MongoDB trabajo con mi equipo en el desarrollo de una plataforma ecommerce. Construí la estructura del lado del cliente y realice una migración dentro del proyecto que consistió en migrar el proyecto de templates estáticos de HTML/CSS a Angular y la migración de hoja de estilos de CSS a SASS. Actualmente sigo trabajando en la parte del cliente"
   },
   {
-    "title": "Full Stack Developer",
+    "title": "Front End Developer",
     "company": "Freelance",
-    "description": "Más de un año de experiencia con JavaScript, TypeScript y Angular. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
+    "description": "Más de 2 años experiencia con las tecnologías HTML5, CSS, SASS, JavaScript y Git, un año de experiencia en TypeScript y Angular. He desarrollado proyectos personales, proyectos en conjunto y he realizado servicios de freelance para empresas, entidades y personas para impulsar su marca y/o emprendimiento"
   }
   ],
   "education": [
     {
-      "school": "INTI / Argentina Programa",
+      "school": "Universidad de Buenos Aires",
+      "title": "English for IT (cursando)"
+    },
+    {
+      "school": "Codo a Codo",
+      "title": "Full Stack JavaScript Development (cursando)"
+    },
+    {
+      "school": "Platzi",
+      "title": "Front End Specializing with Angular (cursando)"
+    },
+    {
+      "school": "Argentina Programa",
       "title": "Full Stack Web Development"
+    },
+    {
+      "school": "Argentina Programa",
+      "title": "Introduction to Programming with JavaScript & Ruby"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "JavaScript Algorithms & Data Structure"
     },
     {
       "school": "freeCodeCamp",
       "title": "Responsive Web Design"
     },
     {
-      "school": "UBA / Centro Universitario de Idiomas",
-      "title": "Inglés (cursando)"
+      "school": "Medeiros Tecnología LTDA",
+      "title": "Computing"
     },
     {
-      "school": "AWS",
-      "title": "Web Development Engineer (cursando)"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms and Data Structure (cursando)"
+      "school": "Medeiros Tecnología LTDA",
+      "title": "Brazilian Portuguese"
     },
     {
       "school": "EEMPI N°3060 - San Jorge",
-      "title": "Bachiller en Ciencias Sociales"
+      "title": "High School Degree"
     }
   ],
   "languages": [
   {
+    "img": "../../../assets/lang/um.svg",
+    "name": "Inglés",
+    "level": "INTERMEDIO"
+  },
+  {
     "img": "../../../assets/lang/es.svg",
     "name": "Español",
-    "level": "AVANZADO/NATIVO"
+    "level": "FLUENTE"
   },
   {
     "img": "../../../assets/lang/br.svg",
     "name": "Portugués",
-    "level": "AVANZADO/NATIVO"
-  },
-  {
-    "img": "../../../assets/lang/um.svg",
-    "name": "Inglés",
-    "level": "INTERMEDIO"
+    "level": "FLUENTE"
   }
   ],
   "techs": [
-  {
-    "img": "../../../assets/tech/typescript.png",
-    "title": "TypeScript",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/angular.svg",
-    "title": "Angular",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/node.png",
-    "title": "Node.JS + Express.JS",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/mongodb.svg",
-    "title": "MongoDB",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/graphql.png",
-    "title": "GraphQL",
-    "level": "No"
-  },
   {
     "img": "../../../assets/tech/html.svg",
     "title": "HTML5",
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
+    "img": "../../../assets/tech/css.svg",
+    "title": "CSS3",
     "level": "Sí"
   },
   {
@@ -101,14 +92,14 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/reactjs.png",
-    "title": "React.JS",
-    "level": "No"
+    "img": "../../../assets/tech/typescript.png",
+    "title": "TypeScript",
+    "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/nextjs.png",
-    "title": "Next.JS",
-    "level": "No"
+    "img": "../../../assets/tech/java.png",
+    "title": "Java",
+    "level": "Sí"
   },
   {
     "img": "../../../assets/tech/mysql.png",
@@ -116,140 +107,130 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/tech/mongodb.svg",
+    "title": "MongoDB",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/git.png",
+    "title": "Git",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/sass.png",
+    "title": "SASS",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/reactjs.png",
+    "title": "React",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/angular.svg",
+    "title": "Angular",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/jwt.png",
+    "title": "JWT",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/graphql.png",
+    "title": "GraphQL",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/rxjs.png",
+    "title": "RxJs",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/docker.png",
+    "title": "Docker",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/tailwind.svg",
+    "title": "TailwindCSS",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "NodeJS",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/expressjs.svg",
+    "title": "ExpressJS",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/spring.png",
+    "title": "Spring Boot",
+    "level": "No"
+  },
+  {
     "img": "../../../assets/tech/redux.png",
     "title": "Redux",
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/css.svg",
-    "title": "CSS3",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/docker.svg",
-    "title": "Docker",
+    "img": "../../../assets/tech/ngrx.svg",
+    "title": "NgRx",
     "level": "No"
-  },
-  {
-    "img": "../../../assets/personal/trabajo-en-equipo.png",
-    "title": "Facilidad en las relaciones interpersonales",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/facilidad-en-las-relaciones-interpersonales.png",
-    "title": "Trabajo en equipo",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/capacidad-de-escuchar.png",
-    "title": "Capacidad de escuchar",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/inteligencia-emocional.png",
-    "title": "Inteligencia emocional",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/resolucion-de-problemas.png",
-    "title": "Resolución de problemas",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/manejo-del-conflicto.png",
-    "title": "Manejo del conflicto",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/negociacion.png",
-    "title": "Negociación",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/atencion-al-detalle.png",
-    "title": "Atención al detalle",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/creatividad-e-innovacion.png",
-    "title": "Creatividad e innovación",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/pensamiento-analitico-y-critico.png",
-    "title": "Pensamiento analítico y crítico",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/aprendizaje-rapido.png",
-    "title": "Aprendizaje rápido",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/autodesarrollo.png",
-    "title": "Autodesarrollo",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/perseverancia.png",
-    "title": "Perseverancia",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/personal/paciencia.png",
-    "title": "Paciencia",
-    "level": "Sí"
   }
   ],
   "projects": [
     {
+      "title": "Springular",
+      "description": "Portfolio (this project)",
+      "techs": "Angular + Spring Boot + MySQL",
+      "link_github": "https://github.com/josuehoenicka/springular",
+      "link_google": "https://springular.web.app"
+    },
+    {
+      "title": "Bandicootfolio",
+      "description": "Portolio",
+      "techs": "SCSS + Angular",
+      "link_github": "https://github.com/josuehoenicka/bandicootfolio",
+      "link_google": "https://bandicootfolio.web.app"
+    },
+    {
+      "title": "Hoenixstore",
+      "description": "Ecommerce Plataform",
+      "techs": "SCSS + Angular",
+      "link_github": "https://github.com/josuehoenicka/hoenixstore",
+      "link_google": "/projects/working"
+    },
+    {
+      "title": "Wanderlist",
+      "description": "Travel Application",
+      "techs": "SCSS + Angular",
+      "link_github": "https://github.com/josuehoenicka/wanderlist",
+      "link_google": "/projects/working"
+    },
+    {
+      "title": "Rottwames",
+      "description": "Video Game Website",
+      "techs": "Angular + NodeJS + MongoDB",
+      "link_github": "https://github.com/josuehoenicka/rotwaiming",
+      "link_google": "/projects/working"
+    },
+    {
       "title": "Codebash",
       "description": "Ecommerce Plataform",
       "techs": "Angular + Flask + MongoDB",
-      "link_github": "#/projects/working",
-      "link_google": "#/projects/working"
-    },
-    {
-      "title": "Portfolio 2.0",
-      "description": "Dinamic Porfolio",
-      "techs": "Angular + Spring Boot + MySQL",
-      "link_github": "https://github.com/josuehoenicka/portfolio2",
-      "link_google": "#/"
-    },
-    {
-      "title": "Portfolio 1.0",
-      "description": "Static Portolio",
-      "techs": "HTML5 + CCS3 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/portfolio1",
-      "link_google": "https://josuehoenicka.github.io/portfolio1/"
-    },
-    {
-      "title": "Joniking",
-      "description": "Video Game Website",
-      "techs": "Angular",
-      "link_github": "https://github.com/josuehoenicka/joniking",
-      "link_google": "#/projects/working"
+      "link_github": "/projects/working",
+      "link_google": "/projects/working"
     },
     {
       "title": "C.D.S",
-      "description": "Christian Website",
-      "techs": "HTML5 + BootStrap5 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/cds",
-      "link_google": "https://caminodesantidad.github.io/"
-    },
-    {
-      "title": "Calculator 2.0",
-      "description": "GCF & LCM Calculator",
-      "techs": "HTML5 + CSS3 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/calculator2",
-      "link_google": "https://github.com/josuehoenicka/calculator2"
-    },
-    {
-      "title": "Calculator 1.0",
-      "description": "Math Calculator",
-      "techs": "HTML5 + CSS3 + JavaScript",
-      "link_github": "https://github.com/josuehoenicka/calculator1",
-      "link_google": "https://github.com/josuehoenicka/calculator1"
+      "description": "Christian Church Website",
+      "techs": "Bootstrap5 + JavaScript",
+      "link_github": "/projects/working",
+      "link_google": "/projects/private"
     }
   ]
 }
