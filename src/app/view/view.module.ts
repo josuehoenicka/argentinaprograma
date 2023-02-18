@@ -13,7 +13,6 @@ import { LoginComponent } from './auth/login/login.component';
 import { RegisterComponent } from './auth/register/register.component';
 import { FormsModule } from '@angular/forms';
 import { NotfoundComponent } from './pages/notfound/notfound.component';
-import { MaintenanceComponent } from './pages/maintenance/maintenance.component';
 
 
 @NgModule({
@@ -27,8 +26,7 @@ import { MaintenanceComponent } from './pages/maintenance/maintenance.component'
     NavComponent,
     LoginComponent,
     RegisterComponent,
-    NotfoundComponent,
-    MaintenanceComponent
+    NotfoundComponent
   ],
   imports: [
     CommonModule,
