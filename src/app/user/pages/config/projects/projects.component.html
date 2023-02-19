@@ -22,7 +22,7 @@
             </div>
             <a routerLink="<!--edit-->" class="save-configprojects-btn configproject-btn">Guardar</a>
             <a routerLink="<!--edit-->" class="delete-configprojects-btn configproject-btn">Borrar</a>
-            <a routerLink="/home/user/projects" class="cancel-configprojects-btn configproject-btn">Cancelar</a>
+            <a (click)="backClicked()" class="cancel-configprojects-btn configproject-btn">Cancelar</a>
           </div>
         </div>
         <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>

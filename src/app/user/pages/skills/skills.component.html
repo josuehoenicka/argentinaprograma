@@ -11,11 +11,11 @@
         <div *ngFor="let lang of lang" class="lang-items">
             <img [src]="lang.img" title="{{lang.name}}" class="flag-items">
             <p class="lvl-items">{{lang.level}}</p>
-            <a routerLink="/configure/langs" class="fa fa-pencil fa-config" ></a>
-            <a routerLink="/configure/langs" class="fa fa-trash fa-config"></a>
+            <a routerLink="/configurelanguages" class="fa fa-pencil fa-config" ></a>
+            <a routerLink="/configurelanguages" class="fa fa-trash fa-config"></a>
         </div>
         <div>
-          <a class="fa fa-pencil fa-config-skills" routerLink="/configure/skills"><p class="fa-with-text">Editar habilidades</p></a>
+          <a class="fa fa-pencil fa-config-skills" routerLink="/configureskills"><p class="fa-with-text">Editar habilidades</p></a>
         </div>
     </div>
 </section>
