@@ -25,7 +25,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 1.5em 0;
+  padding: 0.5em 0;
 }
 
 .btn-container {
@@ -57,13 +57,13 @@ legend {
 .inputs-link {
   margin: 0.15em 0;
   width: 70vw;
-  font-size: 2em;
+  font-size: 1.88em;
   border-bottom: 0.01em var(--white-off) solid;
 }
 
 .configproject-btn {
   color: var(--black-on);
-  padding: 0.5em 2em;
+  padding: 0.45em 1.5em;
   text-decoration: none;
   border-radius: 2em;
   font-size: 1.8em;

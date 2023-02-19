@@ -60,7 +60,7 @@
 }
 
 fieldset {
-margin: 0.5em 0;
+  margin: 0.25em 0;
   border-color: var(--white-off);
 }
 
@@ -68,11 +68,6 @@ legend {
   color: var(--white-off);
   padding: 0 1em;
   font-size: 1.6em;
-}
-
-.slide-img-tech {
-  padding-bottom: 0.5em;
-  width: 7em;
 }
 
 .slider-container-structure {
@@ -105,10 +100,10 @@ border-bottom: 0.01em var(--white-off) solid;
 
 .configproject-btn {
   color: var(--black-on);
-  padding: 0.5em 2em;
+  padding: 0.45em 1.5em;
   text-decoration: none;
   border-radius: 2em;
-  font-size: 2em;
+  font-size: 1.8em;
   margin: 0 0.5em;
   text-align: center;
 }

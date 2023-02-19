@@ -9,7 +9,7 @@
       <input [(ngModel)]="descriptionRegister" type="text" [class.valid]="descriptionRegister" [autocomplete]="true" name="ocupation_register" placeholder="Perfil profesional u ocupación (máx. 35 caracteres)" id="ocupation_register" class="input_register" required autocomplete="off" maxlength="35">
       <input [(ngModel)]="passwordRegister" [class.valid]="passwordRegister && passwordRegister.length > passwordRequired" [autocomplete]="true" type="password" name="password_register" placeholder="Introducir contraseña (min. 8 caracteres)" id="password_register" class="input_register" required autocomplete="off" [minlength]="8">
       <input [(ngModel)]="confirmPasswordRegister" [class.valid]="confirmPasswordRegister === passwordRegister" [autocomplete]="true" type="password" name="repassword_register" placeholder="Re-introducir contraseña" id="repassword_register" class="input_register" maxlength="77" required>
-      <button type="submit" class="btn-back" routerLink="">Volver</button>
+      <button type="submit" class="btn-back" routerLink="/home">Volver</button>
       <button type="submit" class="btn-register" routerLink="/home">Registrarse</button>
   </form>
 </section>
