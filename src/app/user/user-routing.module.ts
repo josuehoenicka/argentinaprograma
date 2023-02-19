@@ -18,12 +18,7 @@ import { AddProjectsComponent } from './pages/add/projects/projects.component';
 
 const routes: Routes = [
   {
-    path: '',
-    redirectTo: '/index',
-    pathMatch: 'full'
-  },
-  {
-    path: 'index',
+    path: 'user',
     component: UserHomeComponent
   },
   {
