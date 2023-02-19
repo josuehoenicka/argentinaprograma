@@ -7,7 +7,7 @@ import {Location} from '@angular/common';
   templateUrl: './projects.component.html',
   styleUrls: ['./projects.component.scss']
 })
-export class ProjectsComponent implements OnInit {
+export class UserProjectsComponent implements OnInit {
   name:any;
   project:any;
 

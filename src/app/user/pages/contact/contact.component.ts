@@ -6,7 +6,7 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
   templateUrl: './contact.component.html',
   styleUrls: ['./contact.component.scss']
 })
-export class ContactComponent implements OnInit {
+export class UserContactComponent implements OnInit {
 
   name:any;
   constructor(private check:PortfolioService) { }

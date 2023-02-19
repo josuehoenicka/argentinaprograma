@@ -6,7 +6,7 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
   templateUrl: './skills.component.html',
   styleUrls: ['./skills.component.css']
 })
-export class SkillsComponent implements OnInit {
+export class UserSkillsComponent implements OnInit {
   name:any;
   lang:any;
   tech:any;

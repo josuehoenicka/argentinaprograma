@@ -1,15 +1,16 @@
-import { ConfigEducationComponent } from './pages/config/education/education.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+
 import { UserAboutComponent } from './pages/about/about.component';
-import { ContactComponent } from './pages/contact/contact.component';
-import { HomeComponent } from './pages/home/home.component';
-import { ProjectsComponent } from './pages/projects/projects.component';
-import { SkillsComponent } from './pages/skills/skills.component';
+import { UserContactComponent } from './pages/contact/contact.component';
+import { UserHomeComponent } from './pages/home/home.component';
+import { UserProjectsComponent } from './pages/projects/projects.component';
+import { UserSkillsComponent } from './pages/skills/skills.component';
 import { ConfigExperienceComponent } from './pages/config/experience/experience.component';
 import { ConfigLanguagesComponent } from './pages/config/languages/languages.component';
 import { ConfigProfileComponent } from './pages/config/profile/profile.component';
 import { ConfigProjectsComponent } from './pages/config/projects/projects.component';
+import { ConfigEducationComponent } from './pages/config/education/education.component';
 
 const routes: Routes = [
   {
@@ -19,42 +20,42 @@ const routes: Routes = [
   },
   {
     path: 'index',
-    component: HomeComponent
+    component: UserHomeComponent
   },
   {
-    path: 'about',
+    path: 'userabout',
     component: UserAboutComponent
   },
   {
-    path: 'skills',
-    component: SkillsComponent
+    path: 'userskills',
+    component: UserSkillsComponent
   },
   {
-    path: 'projects',
-    component: ProjectsComponent
+    path: 'userprojects',
+    component: UserProjectsComponent
   },
   {
-    path: 'contact',
-    component: ContactComponent
+    path: 'usercontact',
+    component: UserContactComponent
   },
   {
-    path: 'configure/education',
+    path: 'configureducation',
     component: ConfigEducationComponent
   },
   {
-    path: 'configure/experience',
+    path: 'configurexperience',
     component: ConfigExperienceComponent
   },
   {
-    path: 'configure/languages',
+    path: 'configurelanguages',
     component: ConfigLanguagesComponent
   },
   {
-    path: 'configure/profile',
+    path: 'configureprofile',
     component: ConfigProfileComponent
   },
   {
-    path: 'configure/projects',
+    path: 'configureprojects',
     component: ConfigProjectsComponent
   }
 ];

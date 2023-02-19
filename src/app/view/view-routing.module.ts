@@ -1,3 +1,4 @@
+import { UserModule } from './../user/user.module';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
@@ -50,10 +51,14 @@ const routes: Routes = [
     path: 'register',
     component: RegisterComponent
   },
+  {
+    path: 'user',
+    loadChildren: () => import('../user/user.module').then(m => m.UserModule)
+  }
 ];
 
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
+  imports: [RouterModule.forChild(routes), UserModule],
   exports: [RouterModule]
 })
 export class ViewRoutingModule { }

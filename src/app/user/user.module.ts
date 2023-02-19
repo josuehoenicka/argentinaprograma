@@ -3,10 +3,10 @@ import { CommonModule } from '@angular/common';
 
 import { UserRoutingModule } from './user-routing.module';
 import { UserAboutComponent } from './pages/about/about.component';
-import { ContactComponent } from './pages/contact/contact.component';
-import { HomeComponent } from './pages/home/home.component';
-import { ProjectsComponent } from './pages/projects/projects.component';
-import { SkillsComponent } from './pages/skills/skills.component';
+import { UserContactComponent } from './pages/contact/contact.component';
+import { UserHomeComponent } from './pages/home/home.component';
+import { UserProjectsComponent } from './pages/projects/projects.component';
+import { UserSkillsComponent } from './pages/skills/skills.component';
 import { NavComponent } from './nav/nav/nav.component';
 import { ConfigEducationComponent } from './pages/config/education/education.component';
 import { ConfigExperienceComponent } from './pages/config/experience/experience.component';
@@ -21,10 +21,10 @@ import { AddProjectsComponent } from './pages/add/projects/projects.component';
 @NgModule({
   declarations: [
     UserAboutComponent,
-    ContactComponent,
-    HomeComponent,
-    ProjectsComponent,
-    SkillsComponent,
+    UserContactComponent,
+    UserHomeComponent,
+    UserProjectsComponent,
+    UserSkillsComponent,
     NavComponent,
     ConfigEducationComponent,
     ConfigExperienceComponent,
