@@ -13,10 +13,10 @@ import { ConfigExperienceComponent } from './pages/config/experience/experience.
 import { ConfigLanguagesComponent} from './pages/config/languages/languages.component';
 import { ConfigProfileComponent } from './pages/config/profile/profile.component';
 import { ConfigProjectsComponent } from './pages/config/projects/projects.component';
+import { ConfigSkillsComponent } from './pages/config/skills/skills.component';
 import { AddExperienceComponent } from './pages/add/experience/experience.component';
 import { AddEducationComponent } from './pages/add/education/education.component';
 import { AddProjectsComponent } from './pages/add/projects/projects.component';
-
 
 @NgModule({
   declarations: [
@@ -33,7 +33,8 @@ import { AddProjectsComponent } from './pages/add/projects/projects.component';
     ConfigProjectsComponent,
     AddExperienceComponent,
     AddEducationComponent,
-    AddProjectsComponent
+    AddProjectsComponent,
+    ConfigSkillsComponent
   ],
   imports: [
     CommonModule,

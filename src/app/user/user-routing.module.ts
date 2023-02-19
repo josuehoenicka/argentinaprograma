@@ -1,3 +1,4 @@
+import { ConfigSkillsComponent } from './pages/config/skills/skills.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
@@ -50,8 +51,16 @@ const routes: Routes = [
     component: ConfigExperienceComponent
   },
   {
+    path: 'configureprojects',
+    component: ConfigProjectsComponent
+  },
+  {
     path: 'configurelanguages',
     component: ConfigLanguagesComponent
+  },
+  {
+    path: 'configureskills',
+    component: ConfigSkillsComponent
   },
   {
     path: 'configureprofile',
