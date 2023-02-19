@@ -11,6 +11,9 @@ import { ConfigLanguagesComponent } from './pages/config/languages/languages.com
 import { ConfigProfileComponent } from './pages/config/profile/profile.component';
 import { ConfigProjectsComponent } from './pages/config/projects/projects.component';
 import { ConfigEducationComponent } from './pages/config/education/education.component';
+import { AddEducationComponent } from './pages/add/education/education.component';
+import { AddExperienceComponent } from './pages/add/experience/experience.component';
+import { AddProjectsComponent } from './pages/add/projects/projects.component';
 
 const routes: Routes = [
   {
@@ -57,6 +60,18 @@ const routes: Routes = [
   {
     path: 'configureprojects',
     component: ConfigProjectsComponent
+  },
+  {
+    path: 'addeducation',
+    component: AddEducationComponent
+  },
+  {
+    path: 'addexperience',
+    component: AddExperienceComponent
+  },
+  {
+    path: 'addprojects',
+    component: AddProjectsComponent
   }
 ];
 
