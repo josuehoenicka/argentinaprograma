@@ -7,7 +7,7 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
   styleUrls: ['./about.component.scss']
 })
 
-export class AboutComponent implements OnInit {
+export class UserAboutComponent implements OnInit {
   name:any;
   experience:any;
   certification:any;

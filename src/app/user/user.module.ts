@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { UserRoutingModule } from './user-routing.module';
-import { AboutComponent } from './pages/about/about.component';
+import { UserAboutComponent } from './pages/about/about.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ProjectsComponent } from './pages/projects/projects.component';
@@ -20,7 +20,7 @@ import { AddProjectsComponent } from './pages/add/projects/projects.component';
 
 @NgModule({
   declarations: [
-    AboutComponent,
+    UserAboutComponent,
     ContactComponent,
     HomeComponent,
     ProjectsComponent,
