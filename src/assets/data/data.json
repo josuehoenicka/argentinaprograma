@@ -184,30 +184,37 @@
   ],
   "projects": [
     {
+      "title": "Codebash",
+      "description": "Ecommerce Plataform",
+      "techs": "Angular + Flask + MongoDB",
+      "link_github": "/projects/working",
+      "link_google": "/projects/working"
+    },
+    {
       "title": "Springular",
-      "description": "Portfolio (this project)",
+      "description": "Full Stack Portfolio",
       "techs": "Angular + Spring Boot + MySQL",
       "link_github": "https://github.com/josuehoenicka/springular",
       "link_google": "https://springular.web.app"
     },
     {
       "title": "Bandicootfolio",
-      "description": "Portolio",
-      "techs": "SCSS + Angular",
+      "description": "Front End Portolio",
+      "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/bandicootfolio",
       "link_google": "https://bandicootfolio.web.app"
     },
     {
       "title": "Hoenixstore",
       "description": "Ecommerce Plataform",
-      "techs": "SCSS + Angular",
+      "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/hoenixstore",
       "link_google": "/projects/working"
     },
     {
       "title": "Wanderlist",
       "description": "Travel Application",
-      "techs": "SCSS + Angular",
+      "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/wanderlist",
       "link_google": "/projects/working"
     },
@@ -219,15 +226,8 @@
       "link_google": "/projects/working"
     },
     {
-      "title": "Codebash",
-      "description": "Ecommerce Plataform",
-      "techs": "Angular + Flask + MongoDB",
-      "link_github": "/projects/working",
-      "link_google": "/projects/working"
-    },
-    {
       "title": "C.D.S",
-      "description": "Christian Church Website",
+      "description": "Christian Landing Page",
       "techs": "Bootstrap5 + JavaScript",
       "link_github": "/projects/working",
       "link_google": "/projects/private"
