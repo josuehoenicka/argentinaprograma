@@ -62,17 +62,17 @@
   {
     "img": "../../../assets/lang/um.svg",
     "name": "Inglés",
-    "level": "INTERMEDIO"
+    "level": "PROFESIONAL"
   },
   {
     "img": "../../../assets/lang/es.svg",
     "name": "Español",
-    "level": "FLUENTE"
+    "level": "FLUÍDO"
   },
   {
     "img": "../../../assets/lang/br.svg",
     "name": "Portugués",
-    "level": "FLUENTE"
+    "level": "FLUÍDO"
   }
   ],
   "techs": [
