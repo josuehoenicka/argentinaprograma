@@ -1,7 +1,7 @@
 {
   "photo": "../../../assets/personal/josuehoenicka.jpg",
 	"nameUser": "Josue Hoenicka",
-  "ocupation": "Front End Developer",
+  "ocupation": "Full Stack Developer",
   "github": "https://github.com/josuehoenicka",
   "linkedin": "https://www.linkedin.com/in/josuehoenicka/",
   "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com",
@@ -62,17 +62,17 @@
   {
     "img": "../../../assets/lang/um.svg",
     "name": "Inglés",
-    "level": "INTERMEDIO"
+    "level": "PROFESIONAL"
   },
   {
     "img": "../../../assets/lang/es.svg",
     "name": "Español",
-    "level": "FLUENTE"
+    "level": "FLUÍDO"
   },
   {
     "img": "../../../assets/lang/br.svg",
     "name": "Portugués",
-    "level": "FLUENTE"
+    "level": "FLUÍDO"
   }
   ],
   "techs": [
@@ -102,24 +102,24 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/mysql.png",
-    "title": "MySQL",
-    "level": "Sí"
-  },
-  {
-    "img": "../../../assets/tech/mongodb.svg",
-    "title": "MongoDB",
+    "img": "../../../assets/tech/ruby.png",
+    "title": "Ruby",
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/git.png",
-    "title": "Git",
-    "level": "Sí"
+    "img": "../../../assets/tech/rxjs.png",
+    "title": "RxJs",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/sass.png",
     "title": "SASS",
     "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/tailwind.svg",
+    "title": "TailwindCSS",
+    "level": "No"
   },
   {
     "img": "../../../assets/tech/reactjs.png",
@@ -137,38 +137,8 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/graphql.png",
-    "title": "GraphQL",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/rxjs.png",
-    "title": "RxJs",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/docker.png",
-    "title": "Docker",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/tailwind.svg",
-    "title": "TailwindCSS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/nodejs.png",
-    "title": "NodeJS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/expressjs.svg",
-    "title": "ExpressJS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/spring.png",
-    "title": "Spring Boot",
+    "img": "../../../assets/tech/redis.png",
+    "title": "Redis",
     "level": "No"
   },
   {
@@ -177,37 +147,74 @@
     "level": "No"
   },
   {
-    "img": "../../../assets/tech/ngrx.svg",
-    "title": "NgRx",
+    "img": "../../../assets/tech/mysql.png",
+    "title": "MySQL",
+    "level": "Sí"
+  },
+  {
+    "img": "../../../assets/tech/mongodb.svg",
+    "title": "MongoDB",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/nextjs.png",
+    "title": "NextJS",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/nodejs.png",
+    "title": "NodeJS",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/spring.png",
+    "title": "Spring Boot",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/rubyonrails.png",
+    "title": "Ruby on Rails",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/graphql.png",
+    "title": "GraphQL",
     "level": "No"
   }
   ],
   "projects": [
     {
+      "title": "Codebash",
+      "description": "Ecommerce Plataform",
+      "techs": "Angular + Flask + MongoDB",
+      "link_github": "/projects/working",
+      "link_google": "/projects/working"
+    },
+    {
       "title": "Springular",
-      "description": "Portfolio (this project)",
+      "description": "Full Stack Portfolio",
       "techs": "Angular + Spring Boot + MySQL",
       "link_github": "https://github.com/josuehoenicka/springular",
       "link_google": "https://springular.web.app"
     },
     {
       "title": "Bandicootfolio",
-      "description": "Portolio",
-      "techs": "SCSS + Angular",
+      "description": "Front End Portolio",
+      "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/bandicootfolio",
       "link_google": "https://bandicootfolio.web.app"
     },
     {
       "title": "Hoenixstore",
       "description": "Ecommerce Plataform",
-      "techs": "SCSS + Angular",
+      "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/hoenixstore",
       "link_google": "/projects/working"
     },
     {
       "title": "Wanderlist",
       "description": "Travel Application",
-      "techs": "SCSS + Angular",
+      "techs": "Angular",
       "link_github": "https://github.com/josuehoenicka/wanderlist",
       "link_google": "/projects/working"
     },
@@ -219,15 +226,8 @@
       "link_google": "/projects/working"
     },
     {
-      "title": "Codebash",
-      "description": "Ecommerce Plataform",
-      "techs": "Angular + Flask + MongoDB",
-      "link_github": "/projects/working",
-      "link_google": "/projects/working"
-    },
-    {
       "title": "C.D.S",
-      "description": "Christian Church Website",
+      "description": "Christian Landing Page",
       "techs": "Bootstrap5 + JavaScript",
       "link_github": "/projects/working",
       "link_google": "/projects/private"
