@@ -18,24 +18,28 @@
   ],
   "education": [
     {
+      "school": "Microverse",
+      "title": "Full Stack Web Development (cursando)"
+    },
+    {
       "school": "Universidad de Buenos Aires",
       "title": "English for IT (cursando)"
     },
     {
-      "school": "Codo a Codo",
-      "title": "Full Stack JavaScript Development (cursando)"
-    },
-    {
-      "school": "Platzi",
-      "title": "Front End Specializing with Angular (cursando)"
+      "school": "Codo a Codo 4.0",
+      "title": "JavaScript Web Development (cursando)"
     },
     {
       "school": "Argentina Programa",
-      "title": "Full Stack Web Development"
+      "title": "Full Stack Web Development (cursando)"
+    },
+    {
+      "school": "Facultad Regional Rosario",
+      "title": "Introduction to Java Development (cursando)"
     },
     {
       "school": "Argentina Programa",
-      "title": "Introduction to Programming with JavaScript & Ruby"
+      "title": "Introduction to JavaScript/Ruby Development"
     },
     {
       "school": "freeCodeCamp",
