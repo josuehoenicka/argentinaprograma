@@ -18,40 +18,36 @@
   ],
   "education": [
     {
-      "school": "Universidad de Buenos Aires",
-      "title": "English for IT (cursando)"
+      "school": "Microverse",
+      "title": "Full Stack Web Development"
     },
     {
-      "school": "Codo a Codo",
-      "title": "Full Stack JavaScript Development (cursando)"
+      "school": "Universidad de Buenos Aires",
+      "title": "English for IT"
+    },
+    {
+      "school": "freeCodeCamp",
+      "title": "Software Development"
     },
     {
       "school": "Platzi",
-      "title": "Front End Specializing with Angular (cursando)"
+      "title": "IT Education"
     },
     {
       "school": "Argentina Programa",
       "title": "Full Stack Web Development"
     },
     {
-      "school": "Argentina Programa",
-      "title": "Introduction to Programming with JavaScript & Ruby"
+      "school": "Facultad Regional Rosario",
+      "title": "Introduction to Programming"
     },
     {
-      "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms & Data Structure"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "Responsive Web Design"
+      "school": "Universidad Nacional de Rosario",
+      "title": "Computer Science"
     },
     {
       "school": "Medeiros Tecnología LTDA",
-      "title": "Computing"
-    },
-    {
-      "school": "Medeiros Tecnología LTDA",
-      "title": "Brazilian Portuguese"
+      "title": "Formation Courses"
     },
     {
       "school": "EEMPI N°3060 - San Jorge",
@@ -97,11 +93,6 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/java.png",
-    "title": "Java",
-    "level": "Sí"
-  },
-  {
     "img": "../../../assets/tech/ruby.png",
     "title": "Ruby",
     "level": "No"
@@ -132,11 +123,6 @@
     "level": "Sí"
   },
   {
-    "img": "../../../assets/tech/jwt.png",
-    "title": "JWT",
-    "level": "No"
-  },
-  {
     "img": "../../../assets/tech/redis.png",
     "title": "Redis",
     "level": "No"
@@ -164,11 +150,6 @@
   {
     "img": "../../../assets/tech/nodejs.png",
     "title": "NodeJS",
-    "level": "No"
-  },
-  {
-    "img": "../../../assets/tech/spring.png",
-    "title": "Spring Boot",
     "level": "No"
   },
   {
