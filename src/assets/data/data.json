@@ -19,43 +19,35 @@
   "education": [
     {
       "school": "Microverse",
-      "title": "Full Stack Web Development (cursando)"
+      "title": "Full Stack Web Development"
     },
     {
       "school": "Universidad de Buenos Aires",
-      "title": "English for IT (cursando)"
+      "title": "English for IT"
     },
     {
-      "school": "Codo a Codo 4.0",
-      "title": "JavaScript Web Development (cursando)"
+      "school": "freeCodeCamp",
+      "title": "Software Development"
+    },
+    {
+      "school": "Platzi",
+      "title": "IT Education"
     },
     {
       "school": "Argentina Programa",
-      "title": "Full Stack Web Development (cursando)"
+      "title": "Full Stack Web Development"
     },
     {
       "school": "Facultad Regional Rosario",
-      "title": "Introduction to Java Development (cursando)"
+      "title": "Introduction to Programming"
     },
     {
-      "school": "Argentina Programa",
-      "title": "Introduction to JavaScript/Ruby Development"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "JavaScript Algorithms & Data Structure"
-    },
-    {
-      "school": "freeCodeCamp",
-      "title": "Responsive Web Design"
+      "school": "Universidad Nacional de Rosario",
+      "title": "Computer Science"
     },
     {
       "school": "Medeiros Tecnología LTDA",
-      "title": "Computing"
-    },
-    {
-      "school": "Medeiros Tecnología LTDA",
-      "title": "Brazilian Portuguese"
+      "title": "Formation Courses"
     },
     {
       "school": "EEMPI N°3060 - San Jorge",
