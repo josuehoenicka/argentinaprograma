@@ -12,24 +12,6 @@ nav {
   display: none;
 }
 
-.logo-nav-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  .logo-nav {
-    width: 22em;
-    padding: 1.5em;
-    opacity: 0.5;
-    background-color: transparent;
-    transition: 0.5s;
-  }
-  .logo-nav:hover {
-    opacity: 1;
-    cursor: pointer;
-    transition: 0.5s;
-  }
-}
-
 .navbar-container {
   width: 100vw;
   display: flex;
