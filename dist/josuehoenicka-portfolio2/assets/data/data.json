@@ -101,6 +101,11 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/tech/java.png",
+    "title": "Java",
+    "level": "Sí"
+  },
+  {
     "img": "../../../assets/tech/ruby.png",
     "title": "Ruby",
     "level": "No"
@@ -131,6 +136,11 @@
     "level": "Sí"
   },
   {
+    "img": "../../../assets/tech/jwt.png",
+    "title": "JWT",
+    "level": "No"
+  },
+  {
     "img": "../../../assets/tech/redis.png",
     "title": "Redis",
     "level": "No"
@@ -158,6 +168,11 @@
   {
     "img": "../../../assets/tech/nodejs.png",
     "title": "NodeJS",
+    "level": "No"
+  },
+  {
+    "img": "../../../assets/tech/spring.png",
+    "title": "Spring Boot",
     "level": "No"
   },
   {
